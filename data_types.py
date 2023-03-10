@@ -3,7 +3,7 @@ name = "Tanjiro"
 print(name)
 print(type(name))
 
-#Integer Data Type
+#Integer Data Type 
 age = 15
 print(age)
 print(type(age))
