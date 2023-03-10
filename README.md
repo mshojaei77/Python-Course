@@ -84,6 +84,6 @@ Table of Contents: python slayer course
 > https://github.com/mshojaei77/PythonSlayer/tree/main/botdevelopment
 - *Penetration Testing:* Metasploit, Nmap, Sqlmap, Netcat
 > https://github.com/mshojaei77/PythonSlayer/tree/main/Penetrationtesting
-- *Cybersecurity:* cryptography, hashlib, paramiko, pycrypto, netifaces
+- *Cybersecurity:* Cryptography, Hashlib, Paramiko, Pycrypto, Netifaces, Sqlmap, Pyrit, Impacket
 > https://github.com/mshojaei77/PythonSlayer/tree/main/Cybersecurity
 
