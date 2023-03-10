@@ -82,7 +82,7 @@ Table of Contents: python slayer course
 > https://github.com/mshojaei77/PythonSlayer/tree/main/automation
 - *Bot development:* python-telegram-bot, Instapy, discord, yowsup, ChatterBot, PyTorch 
 > https://github.com/mshojaei77/PythonSlayer/tree/main/botdevelopment
-- *Network:* Socket, Twisted, Paramiko
+- *Network:* Socket, Twisted, Paramiko, Netmiko, OpenSSL, Bro
 > https://github.com/mshojaei77/PythonSlayer/tree/main/network
 - *Penetration Testing:* Metasploit, Nmap, Sqlmap, Netcat
 > https://github.com/mshojaei77/PythonSlayer/tree/main/Penetrationtesting
