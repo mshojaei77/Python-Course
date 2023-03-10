@@ -11,9 +11,9 @@ Getting Setup
 1) Install last version of Python 3 from https://www.python.org/downloads/
 
 2) Install Python IDLE & Write Your First Script! 
-> https://code.visualstudio.com/
-> https://anaconda.org/anaconda/jupyter
-> https://www.jetbrains.com/pycharm/
+>>> https://code.visualstudio.com/
+>>> https://anaconda.org/anaconda/jupyter
+>>> https://www.jetbrains.com/pycharm/
 
 
 Table of Contents: python slayer course
