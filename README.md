@@ -1,8 +1,12 @@
 # PythonSlayer
+
 Sample codes for programming course: Python Slayer
 This codes is offered as an accompaniment to a Python course by Mohammad Shojaei.
+
 کدهای نمونه دوره برنامه نویسی: Python Slayer
 این کدها به عنوان یک دوره آموزشی پایتون توسط محمد شجاعی ارائه شده است.
+
+
 Getting Setup (نصب و راه اندازی محیط)
 -------------
 
