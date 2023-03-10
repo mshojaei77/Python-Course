@@ -77,9 +77,9 @@ Table of Contents: python slayer course
 
 9. Python libraries and frameworks 
 - *Web Scraping:* Requests, Selenium, BeautifulSoup, Scrapy, Lxml 
->>> https://github.com/mshojaei77/PythonSlayer/tree/main/webscraping
+> https://github.com/mshojaei77/PythonSlayer/tree/main/webscraping
 - *Automation:* Pandas, PyAutoGUI, Twilio, PyPDF2 
->>> https://github.com/mshojaei77/PythonSlayer/tree/main/automation
+> https://github.com/mshojaei77/PythonSlayer/tree/main/automation
 - *Bot development:* python-telegram-bot, Instapy, discord, yowsup, ChatterBot, PyTorch 
->>> https://github.com/mshojaei77/PythonSlayer/tree/main/botdevelopment
+> https://github.com/mshojaei77/PythonSlayer/tree/main/botdevelopment
 
