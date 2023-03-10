@@ -14,7 +14,7 @@ Getting Setup
 > vs cpde: https://code.visualstudio.com/
 > 
 > anaconda: https://anaconda.org/anaconda/jupyter
-
+> 
 > pycharm: https://www.jetbrains.com/pycharm/
 
 
