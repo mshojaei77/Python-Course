@@ -19,11 +19,10 @@ Table of Contents: python slayer course
 - What is Python?
 - Advantages of Python
 - Setting up the development environment
-- First Python Script 
-    https://github.com/mshojaei77/PythonSlayer/blob/main/HelloWorld.py
+- First Python Script >>> https://github.com/mshojaei77/PythonSlayer/blob/main/HelloWorld.py
 
 2. Basic Python concepts
-- Data types
+- Data types >>> https://github.com/mshojaei77/PythonSlayer/blob/main/_2_data_types.py
 - Operators
 - Type casting
 - String methods
