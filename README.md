@@ -24,13 +24,13 @@ Getting Setup (نصب و راه اندازی محیط)
 
 Table of Contents (فهرست مطالب)
 -------------
-1. Introduction to Python programming >>> https://github.com/mshojaei77/PythonSlayer/tree/main/part1
+P1. Introduction to Python programming 
 - What is Python?
 - Advantages of Python
 - Setting up the development environment
 - First Python Script 
 
-2. Basic Python concepts >>>https://github.com/mshojaei77/PythonSlayer/tree/main/part2
+P2. Basic Python concepts
 - Data types 
 - Operators
 - Type casting
@@ -41,55 +41,55 @@ Table of Contents (فهرست مطالب)
 - Variables
 - Comment
 
-3. Flow Control >>> https://github.com/mshojaei77/PythonSlayer/tree/main/part3
+P3. Flow Control 
 - Conditional statements (if, elif, else)
 - Loops (for and while)
 - Break, Continue $ Pass statment
 
-4. Functions and modules >>> https://github.com/mshojaei77/PythonSlayer/tree/main/part4
+P4. Functions and modules
 - Defining and calling functions
 - Parameters and arguments
 - Returning values from functions
 - Importing and using modules
 - Most common modules
 
-5. Data structures in Python >>> https://github.com/mshojaei77/PythonSlayer/tree/main/part5
+P5. Data structures in Python 
 - Lists
 - Tuples
 - Sets
 - Dictionaries
 - Array, Stack, Queue, Tree, Graph
 
-6. Object-oriented programming with Python >>> https://github.com/mshojaei77/PythonSlayer/tree/main/part6
+P6. Object-oriented programming with Python 
 - Classes and objects
 - Inheritance
 - Encapsulation and information hiding
 - Polymorphism
 
-7. File input/output and exception handling >>> https://github.com/mshojaei77/PythonSlayer/tree/main/part7
+P7. File input/output and exception handling 
 - Reading and writing files
 - Workin with csv & json
 - Exception handling
 - Handling errors and exceptions
 
-8. Advanced Python concepts https://github.com/mshojaei77/PythonSlayer/tree/main/part8
+P8. Advanced Python concepts 
 - Regular expressions
 - Decorators
 - Generators
 - Comprehensions
 - Lambda functions
 
-9. Python libraries and frameworks 
+P9. Python libraries and frameworks 
 - *Web Scraping:* Requests, Selenium, BeautifulSoup, Scrapy, Lxml 
-> https://github.com/mshojaei77/PythonSlayer/tree/main/webscraping
+
 - *Automation:* Pandas, PyAutoGUI, Twilio, PyPDF2 
-> https://github.com/mshojaei77/PythonSlayer/tree/main/automation
+
 - *Bot development:* python-telegram-bot, Instapy, discord, yowsup, ChatterBot, PyTorch 
-> https://github.com/mshojaei77/PythonSlayer/tree/main/botdevelopment
+
 - *Penetration Testing:* Metasploit, Nmap, Sqlmap, Netcat
-> https://github.com/mshojaei77/PythonSlayer/tree/main/Penetrationtesting
+
 - *Network:* Socket, Twisted, Paramiko, Netmiko, OpenSSL, Bro
-> https://github.com/mshojaei77/PythonSlayer/tree/main/network
+
 - *Cybersecurity:* Cryptography, Hashlib, Paramiko, Pycrypto, Netifaces, Sqlmap, Pyrit, Impacket
-> https://github.com/mshojaei77/PythonSlayer/tree/main/Cybersecurity
+
 
