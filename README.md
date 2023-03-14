@@ -24,13 +24,13 @@ Getting Setup (نصب و راه اندازی محیط)
 
 Table of Contents (فهرست مطالب)
 -------------
-P1. Introduction to Python programming 
+P0. Introduction to Python programming 
 - What is Python?
 - Advantages of Python
 - Setting up the development environment
 - First Python Script 
 
-P2. Basic Python concepts
+P1. Basic Python concepts
 - Data types 
 - Operators
 - Type casting
@@ -41,45 +41,45 @@ P2. Basic Python concepts
 - Variables
 - Comment
 
-P3. Flow Control 
+P2. Flow Control 
 - Conditional statements (if, elif, else)
 - Loops (for and while)
 - Break, Continue $ Pass statment
 
-P4. Functions and modules
+P3. Functions and modules
 - Defining and calling functions
 - Parameters and arguments
 - Returning values from functions
 - Importing and using modules
 - Most common modules
 
-P5. Data structures in Python 
+P4. Data structures in Python 
 - Lists
 - Tuples
 - Sets
 - Dictionaries
 - Array, Stack, Queue, Tree, Graph
 
-P6. Object-oriented programming with Python 
+P5. Object-oriented programming with Python 
 - Classes and objects
 - Inheritance
 - Encapsulation and information hiding
 - Polymorphism
 
-P7. File input/output and exception handling 
+P6. File input/output and exception handling 
 - Reading and writing files
 - Workin with csv & json
 - Exception handling
 - Handling errors and exceptions
 
-P8. Advanced Python concepts 
+P7. Advanced Python concepts 
 - Regular expressions
 - Decorators
 - Generators
 - Comprehensions
 - Lambda functions
 
-P9. Python libraries and frameworks 
+P8. Python libraries and frameworks 
 - *Web Scraping:* Requests, Selenium, BeautifulSoup, Scrapy, Lxml 
 
 - *Automation:* Pandas, PyAutoGUI, Twilio, PyPDF2 
