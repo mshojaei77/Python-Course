@@ -16,7 +16,7 @@ Getting Setup (نصب و راه اندازی محیط)
 1) Install last version of Python 3 from https://www.python.org/downloads/
 
 2) Install Python IDLE & Write Your First Script! 
-> vs cpde: https://code.visualstudio.com/
+> vs code: https://code.visualstudio.com/
 > 
 > anaconda: https://anaconda.org/anaconda/jupyter
 > 
