@@ -46,19 +46,19 @@ P2. Flow Control
 - Loops (for and while)
 - Break, Continue $ Pass statment
 
-P3. Functions and modules
-- Defining and calling functions
-- Parameters and arguments
-- Returning values from functions
-- Importing and using modules
-- Most common modules
-
-P4. Data structures in Python 
+P3. Data structures in Python 
 - Lists
 - Tuples
 - Sets
 - Dictionaries
 - Array, Stack, Queue, Tree, Graph
+
+P4. Functions and modules
+- Defining and calling functions
+- Parameters and arguments
+- Returning values from functions
+- Importing and using modules
+- Most common modules
 
 P5. Object-oriented programming with Python 
 - Classes and objects
