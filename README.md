@@ -42,9 +42,9 @@ P1. Basic Python concepts
 - Comment
 
 P2. Flow Control 
-- Conditional statements (if, elif, else)
+- Conditional statements (if, elif, else, match-case)
 - Loops (for and while)
-- Break, Continue $ Pass statment
+- Break, Continue statments
 
 P3. Data structures in Python 
 - Lists
