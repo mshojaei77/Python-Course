@@ -35,7 +35,7 @@ Welcome to the Python Slayer Course! Here you will find a comprehensive list of 
 
 5. 📦 - [Working with Modules](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-1/05-working-with-moduless)
    - 🧩 Importing modules: import statement, from-import statement, aliasing module names, and wildcard imports
-   - 📦 Built-in modules: time, os, sys, random, math, and datetime
+   - 📦 Built-in modules: `time`, `os`, `sys`, `random`, `math`, and `datetime`
    - 🛠️ Creating, using, and documenting modules
    - 📲 Special methods: `__init__()`, `__str__()`, `__repr__()`, `__len__()`, `__getitem__()`, `__setitem__()`, `__delitem__()`, `__contains__()`
 
@@ -85,7 +85,7 @@ Welcome to the Python Slayer Course! Here you will find a comprehensive list of 
 
 14. 🔍 - [Web Scraping](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-3/14-web-scraping)
 - 🕷️ Introduction to web scraping: scraping vs crawling
-- 🌟 Scraping tools: Beautiful Soup, lxml, Scrapy, Selenium
+- 🌟 Scraping tools: `Beautiful Soup`, `lxml`, `Scrapy`, `Selenium`
 - 🧬 Parsing HTML with BeautifulSoup: HTML parsing, tag navigation, attribute access
 - 💻 Scraping data from the web using Python libraries 
 
@@ -97,7 +97,7 @@ Welcome to the Python Slayer Course! Here you will find a comprehensive list of 
 16. ⚙️ - [Automation and Scripting](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-3/16-%20automation-and-scripting)
 - 🤖 Introduction to automation and scripting: scheduling tasks and running scripts
 - 🔧 Using subprocess to run external programs: commands, arguments, and syntax
-- 🖥️ Automating GUI actions with pyautogui and pyttsx3: features, commands, and examples
+- 🖥️ Automating GUI actions with `pyautogui` and `pyttsx3`  : features, commands, and examples
 - 💻 Interacting with Windows using pywin32: wrapping WinAPI functions, retrieving system information 
 
 17. 🤖 - [Bot Development](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-3/17-%20bot-development)
@@ -111,9 +111,9 @@ Welcome to the Python Slayer Course! Here you will find a comprehensive list of 
 
 18. 🎨 - [GUI Programming](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-3/18-gui-programming)
 - 🖼️ Introduction to GUI programming: GUI basics, event-driven programming
-- 🖥️ GUI development with Tkinter: widgets, controls, geometry management, event handling, and application architecture
-- 🚀 Advanced GUI development with PyQt5: designing GUIs with Qt Designer, application events, signals, and slots
-- 🌐 Web application development with Flask and Django: installing and configuring Flask and Django, creating and running projects, integrating with database and HTML templates
+- 🖥️ GUI development with `Tkinter` and `flet`: widgets, controls, geometry management, event handling, and application architecture
+- 🚀 Advanced GUI development with `PyQt5`: designing GUIs with Qt Designer, application events, signals, and slots
+- 🌐 Web application development with `Flask` and `Django`: installing and configuring Flask and Django, creating and running projects, integrating with database and HTML templates
 
 19. 📚 - [Database Access and Management with Python](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-3/19-database-access-and-management-with-python)
 - 🗄️ Introduction to databases: relational databases, NoSQL databases
