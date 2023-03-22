@@ -1,3 +1,34 @@
+# Python Slayer Course
+Welcome to the Python Slayer Course! Here you will find a comprehensive list of subjects covered in the course along with links to folders containing challenges and projects relevant to each subject.
+
+## Phase 1
+- [Introduction to Python](https://github.com/username/python-slayer-course/tree/main/phase-1/introduction-to-python)
+- [Variables and Data Types](https://github.com/username/python-slayer-course/tree/main/phase-1/variables-and-data-types)
+- [Control Structures and Functions](https://github.com/username/python-slayer-course/tree/main/phase-1/control-structures-and-functions)
+- [Data Structures and Algorithms](https://github.com/username/python-slayer-course/tree/main/phase-1/data-structures-and-algorithms)
+- [Working with Modules](https://github.com/username/python-slayer-course/tree/main/phase-1/working-with-modules)
+- [Object-Oriented Programming in Python](https://github.com/username/python-slayer-course/tree/main/phase-1/object-oriented-programming-in-python)
+- [Regular Expressions in Python](https://github.com/username/python-slayer-course/tree/main/phase-1/regular-expressions-in-python)
+
+## Phase 2
+- [Working with Files](https://github.com/username/python-slayer-course/tree/main/phase-2/working-with-files)
+- [Time and Date Manipulation in Python](https://github.com/username/python-slayer-course/tree/main/phase-2/time-and-date-manipulation-in-python)
+- [Operating System Interfaces and Task Management](https://github.com/username/python-slayer-course/tree/main/phase-2/operating-system-interfaces-and-task-management)
+- [Exception Handling](https://github.com/username/python-slayer-course/tree/main/phase-2/exception-handling)
+- [Debugging Python Code](https://github.com/username/python-slayer-course/tree/main/phase-2/debugging-python-code)
+- [Testing Python Code](https://github.com/username/python-slayer-course/tree/main/phase-2/testing-python-code)
+
+## Phase 3
+- [Web Scraping](https://github.com/username/python-slayer-course/tree/main/phase-3/web-scraping)
+- [Internet Access and Parsing](https://github.com/username/python-slayer-course/tree/main/phase-3/internet-access-and-parsing)
+- [Automation and Scripting](https://github.com/username/python-slayer-course/tree/main/phase-3/automation-and-scripting)
+- [Bot Development](https://github.com/username/python-slayer-course/tree/main/phase-3/bot-development)
+- [GUI Programming](https://github.com/username/python-slayer-course/tree/main/phase-3/gui-programming)
+- [Database Access and Management with Python](https://github.com/username/python-slayer-course/tree/main/phase-3/database-access-and-management-with-python)
+- [Packaging and Deployment of Python Applications](https://github.com/username/python-slayer-course/tree/main/phase-3/packaging-and-deployment-of-python-applications)
+- [Machine Learning and Data Analysis](https://github.com/username/python-slayer-course/tree/main/phase-3/machine-learning-and-data-analysis)
+
+
 ## 🐍🗡️ Python Slayer Course:
 ### Phase 1:
 
