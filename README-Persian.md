@@ -4,7 +4,7 @@
 ## 🐍🗡️ دوره شکارچی پایتون:
 ### فاز 1:
 
-1. 📜 - [مقدمه ای به پایتون](ttps://github.com/mshojaei77/PythonSlayer/tree/main/phase-1/01-02-introduction-to-python-variables-and-data-types)
+1. 📜 - [مقدمه ای به پایتون](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-1/01-02-introduction-to-python-variables-and-data-types)
 
 - 💻 نصب پایتون در ویندوز، مک و لینوکس
 - 🚀 شروع پایتون: IDLE، خط فرمان و ویرایشگرهای متن
