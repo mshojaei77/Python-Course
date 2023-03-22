@@ -1,8 +1,3 @@
-# PythonSlayer
-
-Sample codes for programming course: Python Slayer
-
-This codes is offered as an accompaniment to a Python course by Mohammad Shojaei.
 
 # Python Slayer Course Phase 1
 
