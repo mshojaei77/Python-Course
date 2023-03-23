@@ -35,7 +35,7 @@ Welcome to the Python Slayer Course! Here you will find a comprehensive list of 
 
 5. 📦 - [Working with Modules](https://github.com/mshojaei77/PythonSlayer/tree/main/phase-1/05-working-with-moduless)
    - 🧩 Importing modules: import statement, from-import statement, aliasing module names, and wildcard imports
-   - 📦 Built-in modules: `time`, `os`, `sys`, `random`, `math`, and `datetime`
+   - 📦 Built-in modules: `time`, `os`, `sys`, `random`, `math`
    - 🛠️ Creating, using, and documenting modules
    - 📲 Special methods: `__init__()`, `__str__()`, `__repr__()`, `__len__()`, `__getitem__()`, `__setitem__()`, `__delitem__()`, `__contains__()`
 
