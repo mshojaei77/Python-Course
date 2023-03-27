@@ -26,7 +26,7 @@ In this phase, you will learn the basics of Python programming from its installa
 - Challenges and projects for practice
 
 #### 2: Control Structures
-- Decision making with if...else statements
+- Decision making with if...else and match...case statements 
 - Loops in Python - For and While
 - Break and Continue statements
 - Nested loops and their implementations
