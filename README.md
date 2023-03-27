@@ -1,7 +1,7 @@
 # Python Slayer Course
 
 Welcome to the Python Slayer Course! 
-This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language. The course is designed to help beginners learn Python programming and enable advanced users to refine their skills. This course is divided into three phases:
+This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language. The course is designed to help beginners learn Python programming and enable advanced users to refine their skills. This course is divided into two phases:
 
 ## 🐍🗡️ Python Slayer Course:
 
