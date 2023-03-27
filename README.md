@@ -100,14 +100,25 @@ In this phase, you will learn the basics of Python programming from its installa
 ## Phase 2: Automation and Scripting with Python 🤖
 In this phase, you will learn how to automate mundane tasks and create scripts to perform repetitive actions. You will also learn how to integrate Python with other tools and platforms.
 
-### 13. Web Scraping, Internet Access and API Integrations 🔍
+### 13. Web Scraping, Internet Access 🔍
 - 🕷️ Introduction to web scraping
-- 🌐 Overview of HTML, CSS, and XPath
+- 🌐 Working with web technologies like HTML, CSS, DOM, XPath, etc.
 - 📡 Making HTTP requests with urllib
-- 🧬 Scraping data from the web using Python libraries : Requests, Beautiful Soup, lxml, Scrapy, Selenium
-- 🔮 Integration with APIs in Python
+- 🧬 Scraping data from the web using Python libraries : Requests, Beautiful Soup, lxml, Scrapy
 
-### 14. Bot Development 🤖
+
+### 14. Automation and Scripting and API Integrations  ⚙️
+- 🤖 Introduction to automation and scripting: scheduling tasks and running scripts
+- 🔧 Using subprocess to run external programs: commands, arguments, and syntax
+- ⚙️ Automating with Selenium WebDriver
+- 📥 Working with APIs (Application Programming Interface)
+- 💬 Sending Email & text messages: smtplib Module imapclient Module pyzmail Module Searching Email twilio
+- 🖥️ Automating GUI actions with pyautogui and pyttsx3: features, commands, and examples
+- 💻 Interacting with Windows using pywin32: wrapping WinAPI functions, retrieving system information 
+- 🤖 Automating testing with Selenium, Jenkins, Robot Framework, Pytest, Behave, etc. 
+- 🗃️ Introduction to Git and GitHub
+
+### 15. Bot Development 🤖
 - 🤖 Introduction to bot development
 - 💬 Creating chatbots using Dialogflow: design console, intents, entities, webhooks
 - 📲 Overview of Natural Language Processing (NLP)
@@ -116,25 +127,16 @@ In this phase, you will learn how to automate mundane tasks and create scripts t
 - 🎮 Discord bot development using Discord API: creating bots, connecting to Discord, handling events, and sending messages
 - 📱 Building bots with WhatsApp and Instagram using instabot and getcontact libraries
 
-### 15. GUI Programming 🎨
+### 16. GUI Programming 🎨
 - 🖼️ Introduction to GUI programming: GUI basics, event-driven programming
 - 🖥️ GUI development with Tkinter: widgets, controls, geometry management, event handling, and application architecture
 - 🚀 Advanced GUI development with PyQt5: designing GUIs with Qt Designer, application events, signals, and slots
 - 🌐 Web application development with Flask and Django: installing and configuring Flask and Django, creating and running projects, integrating with database and HTML templates
 
-### 16. Packaging and Deployment of Python Applications 🚀
+### 17. Packaging and Deployment of Python Applications 🚀
 - 📦 Packaging Python applications into distributable formats: wheels, eggs, executables
 - 🚀 Deploying Python applications on cloud platforms: AWS, Google Cloud, Heroku, etc.
 - 🛡️ Securing Python applications: using SSL/TLS certificates, hashing, encryption, and authentication
-
-### 17. Automation and Scripting ⚙️
-- 🤖 Introduction to automation and scripting: scheduling tasks and running scripts
-- 🔧 Using subprocess to run external programs: commands, arguments, and syntax
-- 🖥️ Automating GUI actions with pyautogui and pyttsx3: features, commands, and examples
-- 💻 Interacting with Windows using pywin32: wrapping WinAPI functions, retrieving system information 
-- 🤖 Automating testing with Selenium, Jenkins, Robot Framework, Pytest, Behave, etc. 
-- 🌐 Working with web technologies like HTML, CSS, DOM, XPath, etc.
-- 🗃️ Version control with Git and Continuous Integration tools
 
 ### 18. Data Analysis and Data Manipulation 📈
 - 📊 Introduction to data analysis: data types, data sources, and data cleaning
