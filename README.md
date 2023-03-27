@@ -68,8 +68,8 @@ In this phase, you will learn the basics of Python programming from its installa
 ### 8. Working with Files 📁 
 - 📖 Opening and closing files in Python  
 - 📂 Reading and writing to files in Python  
-- 🔥 Handling exceptions while working with files  
-- 📊 Using file handles to manipulate data 
+- 🔥 Working with csv , json and xml data
+- 📊 Working with Excel , PDF , Word
 - 🎯 Challenges and projects for practice 
 
 ### 9. Exception Handling 🚫 
@@ -79,7 +79,7 @@ In this phase, you will learn the basics of Python programming from its installa
 - 🎬 Using finally block with try-except 
 - 🎯 Challenges and projects for practice 
 
-### 10. Testing and Debugging Python Code ✅🐛
+### 10. Testing and Debugging Python Code 🐛
 - 💡 Different methods of testing Python code 
 - 🔍 Debugging techniques in Python  
 - 🧪 Unit testing with PyUnit and pytest  
@@ -100,19 +100,17 @@ In this phase, you will learn the basics of Python programming from its installa
 ## Phase 2: Automation and Scripting with Python 🤖
 In this phase, you will learn how to automate mundane tasks and create scripts to perform repetitive actions. You will also learn how to integrate Python with other tools and platforms.
 
-### 13. Web Scraping, Internet Access, and Parsing 🔍
-- 📡 Making HTTP requests with urllib: `urllib.request` module
-- 🎁 Handling JSON and XML data with Python 
-- 🕷️ Introduction to web scraping: scraping vs crawling
-- 🌟 Scraping tools: Beautiful Soup, lxml, Scrapy, Selenium
-- 🧬 Parsing HTML with BeautifulSoup: HTML parsing, tag navigation, attribute access
-- 💻 Scraping data from the web using Python libraries 
-- 🔮 Scraping dynamic websites with Selenium: installing and configuring Selenium, XPath notation, and browser automation
+### 13. Web Scraping, Internet Access and API Integrations 🔍
+- 🕷️ Introduction to web scraping
+- 🌐 Overview of HTML, CSS, and XPath
+- 📡 Making HTTP requests with urllib
+- 🧬 Scraping data from the web using Python libraries : Requests, Beautiful Soup, lxml, Scrapy, Selenium
+- 🔮 Integration with APIs in Python
 
 ### 14. Bot Development 🤖
-- 🤖 Introduction to bot development: Implementing natural language processing in chatbots
+- 🤖 Introduction to bot development
 - 💬 Creating chatbots using Dialogflow: design console, intents, entities, webhooks
-- 📲 Developing Facebook Messenger bots using Python: Messenger API, Flask app, server connection
+- 📲 Overview of Natural Language Processing (NLP)
 - 🐦 Twitter bot development using tweepy library: installing and configuring tweepy, tweeting, retweeting 
 - 🤖 Telegram bot development using python-telegram-bot and telethon: message handling, bot API, webhook setup, and running the bot
 - 🎮 Discord bot development using Discord API: creating bots, connecting to Discord, handling events, and sending messages
@@ -129,7 +127,7 @@ In this phase, you will learn how to automate mundane tasks and create scripts t
 - 🚀 Deploying Python applications on cloud platforms: AWS, Google Cloud, Heroku, etc.
 - 🛡️ Securing Python applications: using SSL/TLS certificates, hashing, encryption, and authentication
 
-### 17. Automation and Scripting and API Integrations ⚙️
+### 17. Automation and Scripting ⚙️
 - 🤖 Introduction to automation and scripting: scheduling tasks and running scripts
 - 🔧 Using subprocess to run external programs: commands, arguments, and syntax
 - 🖥️ Automating GUI actions with pyautogui and pyttsx3: features, commands, and examples
