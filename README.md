@@ -109,13 +109,11 @@ In this phase, you will learn how to automate mundane tasks and create scripts t
 
 ### 14. Automation and Scripting and API Integrations  ⚙️
 - 🤖 Introduction to automation and scripting: scheduling tasks and running scripts
-- 🔧 Using subprocess to run external programs: commands, arguments, and syntax
 - ⚙️ Automating with Selenium WebDriver
-- 📥 Working with APIs (Application Programming Interface)
+- 🔧 Working with APIs (Application Programming Interface)
 - 💬 Sending Email & text messages: smtplib Module imapclient Module pyzmail Module Searching Email twilio
-- 🖥️ Automating GUI actions with pyautogui and pyttsx3: features, commands, and examples
+- 🤖 Automating testing with Selenium, Jenkins, Robot Framework, Pytest, Behave, etc.
 - 💻 Interacting with Windows using pywin32: wrapping WinAPI functions, retrieving system information 
-- 🤖 Automating testing with Selenium, Jenkins, Robot Framework, Pytest, Behave, etc. 
 - 🗃️ Introduction to Git and GitHub
 
 ### 15. Bot Development 🤖
@@ -131,6 +129,7 @@ In this phase, you will learn how to automate mundane tasks and create scripts t
 - 🖼️ Introduction to GUI programming: GUI basics, event-driven programming
 - 🖥️ GUI development with Tkinter: widgets, controls, geometry management, event handling, and application architecture
 - 🚀 Advanced GUI development with PyQt5: designing GUIs with Qt Designer, application events, signals, and slots
+- 🖥️ Automating GUI actions with pyautogui and pyttsx3: features, commands, and examples
 - 🌐 Web application development with Flask and Django: installing and configuring Flask and Django, creating and running projects, integrating with database and HTML templates
 
 ### 17. Packaging and Deployment of Python Applications 🚀
