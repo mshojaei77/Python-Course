@@ -97,7 +97,7 @@ In this phase, you will learn the basics of Python programming from its installa
 - 📂 Listing directory contents and manipulating files  
 - 🎯 Challenges and projects for practice 
 
-## Phase 2: Automation and Scripting Developer with Python 🤖
+## Phase 2: Automation and Scripting with Python 🤖
 In this phase, you will learn how to automate mundane tasks and create scripts to perform repetitive actions. You will also learn how to integrate Python with other tools and platforms.
 
 ### 13. Web Scraping, Internet Access, and Parsing 🔍
