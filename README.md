@@ -1,12 +1,10 @@
-# Python Slayer Course
+# 🐍🗡️Python Slayer Course
 
 Welcome to the Python Slayer Course! 
 This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language. The course is designed to help beginners learn Python programming and enable advanced users to refine their skills. This course is divided into two phases:
 
-## 🐍🗡️ Python Slayer Course:
 
-
-### Phase 1: Introduction to Python Programming
+## Phase 1: Introduction to Python Programming
 0. Introduction to Python
 1. Variables and Data Types
 2. Control Structures
@@ -21,7 +19,7 @@ This is a comprehensive Python course that covers everything from the basics to 
 12. Time and Date Manipulation in Python
 13. Operating System Interfaces and Task Management
 
-### Phase 2: Automation and Scripting Developer with Python
+## Phase 2: Automation and Scripting Developer with Python
 
 1. Introduction to Automation and Scripting
 2. Web Scraping
