@@ -124,63 +124,56 @@ In this phase, you will learn how to automate mundane tasks and create scripts t
 - Scheduling batch jobs using cron
 - Using PyInstaller to package scripts
 
-#### 5: Data Processing and Cleaning and Data Mining
-- Understanding data processing and cleaning
-- Data mining techniques using Python
-- Data visualization with Python
-- Challenges and projects for practice
-
-#### 6: Automation Testing
+#### 5: Automation Testing
 - Introduction to automated testing
 - Writing test cases using unittest
 - Test automation frameworks in Python
 - Challenges and projects for practice
 
-#### 7: Building Automated Workflows
+#### 6: Building Automated Workflows
 - Understanding automated workflows and their benefits
 - Creating automated workflows using Python
 - Challenges and projects for practice
 
-#### 8: Scripting for DevOps and Infrastructure Management
-- Introduction to DevOps and infrastructure management
-- Using Python scripts for automating DevOps tasks
-- Managing infrastructure using Python
-- Challenges and projects for practice
-
-#### 9: Bot Development
+#### 7: Bot Development
 - Introduction to chatbots and their applications
 - Developing chatbots using Python
 - Implementing natural language processing in chatbots
 - Challenges and projects for practice
-
-#### 10: Social media bot Development
 - Understanding social media automation
 - Developing social media bots using Python
 - Automating social media interactions
 - Challenges and projects for practice
 
-#### 11: Cloud Infrastructure Management
+#### 8: Data Processing and Cleaning and Data Mining
+- Understanding data processing and cleaning
+- Data mining techniques using Python
+- Data visualization with Python
+- Challenges and projects for practice
+
+#### 9: Scripting for DevOps and Infrastructure Management
+- Introduction to DevOps and infrastructure management
+- Using Python scripts for automating DevOps tasks
+- Managing infrastructure using Python
+- Challenges and projects for practice
+
+#### 10: Cloud Infrastructure Management
 - Introduction to cloud computing and its services
 - Automating cloud infrastructure management using Python
 - Challenges and projects for practice
 
-#### 12: Building GUI Applications
+#### 11: Building GUI Applications
 - Introduction to GUI development using Python
 - Building desktop applications with Tkinter
 - Developing cross-platform applications using PyQt
 - Challenges and projects for practice
 
-#### 13: Packaging and Deployment of Python Applications
+#### 12: Packaging and Deployment of Python Applications
 - Understanding packaging and deployment of Python applications
 - Creating Python packages using setuptools
 - Deploying Python applications on different platforms
 - Challenges and projects for practice
 
-#### 14: Automation and Scripting Projects
-- Putting your skills into action by building real-world automation and scripting projects
-- Challenges and projects for practice
-
 
 Happy learning!
-
 
