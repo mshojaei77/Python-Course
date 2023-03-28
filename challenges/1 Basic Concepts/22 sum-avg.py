@@ -1,3 +1,4 @@
+# Write a program that takes input from the user for four integers, a, b, c and d, and then calculates the sum and average of the four numbers.
 a = int(input("a: "))
 b = int(input("a: "))
 c = int(input("a: "))
