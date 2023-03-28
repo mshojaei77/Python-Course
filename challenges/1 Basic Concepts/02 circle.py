@@ -1,4 +1,3 @@
-# برنامه ای برای محاسبه محیط و مساحت دایره
 
 # Area of a Circle A=πr2
 r = float(input("Enter the radius of circle: "))
