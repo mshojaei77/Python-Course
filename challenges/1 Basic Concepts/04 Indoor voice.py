@@ -1,4 +1,3 @@
-# Ask user input
+# Write a Python program to accept a user input and output the input in lowercase.
 msg = input("Say Somthing: ")
-# Print in lowercase
 print(msg.lower())
