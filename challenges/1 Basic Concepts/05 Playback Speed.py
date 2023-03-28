@@ -1,6 +1,4 @@
-# Get input from the user
+#Write a Python program that takes a sentence as user input and replaces all the spaces in the sentence with three dots (...).
 msg = input()
-# Change whitespace for 3 dots
 new_msg = msg.replace(" ", "...")
-# Print output
 print(new_msg)
