@@ -1,9 +1,7 @@
-
-# Area of a Circle A=πr2
+# Write a Python program that asks the user to enter the radius of a circle and prints its area and circumference 
 r = float(input("Enter the radius of circle: "))
 pi = 3.14159265359
 A= pi * (r**2)
 print("Area = " , A )
-#circumference of a Circle C=2πr
 C = 2 * pi * r
 print("Circumference = " , C )
