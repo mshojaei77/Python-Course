@@ -1,6 +1,11 @@
+# Write a program that simulates a vending machine. 
+# The machine charges 50 cents for a product and accepts coins in denominations of 25, 10 or 5 cents.
+# The program should repeatedly ask the user to insert a coin until the amount due is paid in full. 
+# Once the amount due is paid in full, the program should calculate the change owed (if any) and print it.
+
+
 # Variable to keep track
 amount_due = 50
-
 # Loop forever until we break at some point
 while True:
     # Print the amount due
