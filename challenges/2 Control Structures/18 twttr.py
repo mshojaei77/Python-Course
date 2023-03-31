@@ -1,3 +1,5 @@
+# Write a program that takes a string input from the user and removes all vowels (both uppercase and lowercase) from the input. 
+
 # Get user input
 answer = input("Input: ")
 # Print "Output: "
