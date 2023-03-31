@@ -1,13 +1,13 @@
-# Get user input
+# Write a program that prompts the user to enter a number or word. 
+# If the input is equal to 42, "forty-two", or "forty two" (case insensitive and ignoring any leading/trailing white space), output "Yes". Otherwise, output "No".
+
 answer = input("What is the answer to the Great Question of Life, the Universe and Everything? ")
 
-# Print Yes if the user inputs 42 or (case-insensitively) forty-two or forty two
 if answer.strip() == "42":
     print("Yes")
 elif answer.lower().strip() == "forty-two":
     print("Yes")
 elif answer.lower().strip() == "forty two":
     print("Yes")
-# Otherwise output No.
 else:
     print("No")
