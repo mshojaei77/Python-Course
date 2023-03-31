@@ -26,3 +26,12 @@ elif choice == '4':
         print(num1, "/", num2, "=", (num1 / num2))
 else:
     print("Invalid input")
+
+# Prompt the user to enter another expression or quit
+while True:
+    expression = input("Enter another arithmetic expression, or press enter to quit: ")
+    if expression == "":
+        break
+    else:
+        result = eval(expression)
+        print("Result: ", result)
