@@ -1,3 +1,4 @@
+# Write a program that takes a string input in camelCase format and converts it to snake_case format
 # Get user input
 camelCase = input("camelCase: ")
 
