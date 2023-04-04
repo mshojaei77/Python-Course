@@ -1,10 +1,8 @@
 # Python Slayer Course 🐍🗡️
 
 Welcome to the Python Slayer Course! 🎉
-This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language. The course is designed to help beginners learn Python programming and enable advanced users to refine their skills.
-
-## Phase 1: Introduction to Python Programming 🔰
-In this phase, you will learn the basics of Python programming from its installation to advanced techniques that will help you progress in your programming journey.
+This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language.
+ The course is designed to help beginners learn Python programming and enable advanced users to refine their skills. 🔰
 
 ### 0. Introduction to Python 📜
 - 🌐 What is Python and what are its uses? 
@@ -68,8 +66,7 @@ In this phase, you will learn the basics of Python programming from its installa
 ### 8. Working with Files 📁 
 - 📖 Opening and closing files in Python  
 - 📂 Reading and writing to files in Python  
-- 🔥 Working with csv , json and xml data
-- 📊 Working with Excel , PDF , Word
+- 🔥 Working with csv and json data
 - 🎯 Challenges and projects for practice 
 
 ### 9. Exception Handling 🚫 
@@ -96,53 +93,5 @@ In this phase, you will learn the basics of Python programming from its installa
 - 🚀 Managing and killing processes using Python  
 - 📂 Listing directory contents and manipulating files  
 - 🎯 Challenges and projects for practice 
-
-## Phase 2: Automation and Scripting with Python 🤖
-In this phase, you will learn how to automate mundane tasks and create scripts to perform repetitive actions. You will also learn how to integrate Python with other tools and platforms.
-
-### 13. Web Scraping, Internet Access 🔍
-- 🕷️ Introduction to web scraping
-- 🌐 Working with web technologies like HTML, CSS, DOM, XPath, etc.
-- 📡 Making HTTP requests with urllib
-- 🧬 Scraping data from the web using Python libraries : Requests, Beautiful Soup, lxml, Scrapy
-
-
-### 14. Automation and Scripting and API Integrations  ⚙️
-- 🤖 Introduction to automation and scripting: scheduling tasks and running scripts
-- ⚙️ Automating with Selenium WebDriver
-- 🔧 Working with APIs (Application Programming Interface)
-- 💬 Sending Email & text messages: smtplib Module imapclient Module pyzmail Module Searching Email twilio
-- 🤖 Automating testing with Selenium, Jenkins, Robot Framework, Pytest, Behave, etc.
-- 💻 Interacting with Windows using pywin32: wrapping WinAPI functions, retrieving system information 
-- 🗃️ Introduction to Git and GitHub
-
-### 15. Bot Development 🤖
-- 🤖 Introduction to bot development
-- 💬 Creating chatbots using Dialogflow: design console, intents, entities, webhooks
-- 📲 Overview of Natural Language Processing (NLP)
-- 🐦 Twitter bot development using tweepy library: installing and configuring tweepy, tweeting, retweeting 
-- 🤖 Telegram bot development using python-telegram-bot and telethon: message handling, bot API, webhook setup, and running the bot
-- 🎮 Discord bot development using Discord API: creating bots, connecting to Discord, handling events, and sending messages
-- 📱 Building bots with WhatsApp and Instagram using instabot and getcontact libraries
-
-### 16. GUI Programming 🎨
-- 🖼️ Introduction to GUI programming: GUI basics, event-driven programming
-- 🖥️ GUI development with Tkinter: widgets, controls, geometry management, event handling, and application architecture
-- 🚀 Advanced GUI development with PyQt5: designing GUIs with Qt Designer, application events, signals, and slots
-- 🖥️ Automating GUI actions with pyautogui and pyttsx3: features, commands, and examples
-- 🌐 Web application development with Flask and Django: installing and configuring Flask and Django, creating and running projects, integrating with database and HTML templates
-
-### 17. Packaging and Deployment of Python Applications 🚀
-- 📦 Packaging Python applications into distributable formats: wheels, eggs, executables
-- 🚀 Deploying Python applications on cloud platforms: AWS, Google Cloud, Heroku, etc.
-- 🛡️ Securing Python applications: using SSL/TLS certificates, hashing, encryption, and authentication
-
-### 18. Data Analysis and Data Manipulation 📈
-- 📊 Introduction to data analysis: data types, data sources, and data cleaning
-- 🧹 Data cleaning with Python libraries like Pandas, NumPy, and OpenRefine
-- 📈 Analyzing data with Python: visualization using Matplotlib, Seaborn, and Plotly, statistical analysis using SciPy and StatsModels
-- 🤝 Merging and joining data sets using Pandas
-- 📚 Introduction to machine learning with scikit-learn: supervised and unsupervised learning, model fitting, and evaluation
-- 🔍 Exploratory data analysis with Python: pandas profiling and missingno libraries, feature engineering, and dimensionality reduction techniques.
 
 Happy learning! 😊
