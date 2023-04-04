@@ -1,0 +1,412 @@
+## 1. File Handling and working with files in python
+- Introduction to File Handling
+- Reading and Writing Text files
+- Working with JSON files
+- Working with CSV files
+- Working with Excel files
+- Parsing PDF files
+- Manipulating Word document
+- Compressing and Extracting files using ZIP
+- File Permissions and Security in Python
+- Working with Binary files
+- Creating and Deleting Directories in Python
+- Renaming and Moving Files and Directories
+- Monitoring file changes with watchdog module
+- Serializing and Deserializing Python Objects with Pickle module
+- Reading and Writing to XML files
+- Using SQLite Database in Python for File Storage
+## 2. Internet Accessing, Web Scraping and Parsing
+- Basic Concepts of Web Scraping
+- HTTP Protocol and Requests
+- Parsing HTML and CSS
+- Introduction to Web APIs
+- Authentication and Authorization
+- APIs with Python
+- Introduction to Scrapy
+- Scrapy Architecture
+- Spiders and Selectors
+- XPath and CSS Selectors
+- Crawling and Scraping multiple pages
+- Pagination and Dynamic Web Pages
+- Handling AJAX requests with Scrapy
+- Using Selenium for Web Scraping
+- Parsing JSON and XML data from the Web
+- Scraping data from Social Media Platforms
+- Data Cleaning and Preprocessing for Web Scraping
+- Working with BeautifulSoup Library
+- Scraping Websites using Regular Expressions
+- Capturing Network Traffic with Python
+- Working with RESTful APIs
+- Analyzing API Responses with Pandas
+- Data Visualization with Matplotlib and Seaborn
+## 3. Advanced Web Crawling Tools
+- Introduction to Advanced Web Crawling
+- RSS Feeds and ATOM
+- Web Crawling with BeautifulSoup
+- Advanced Crawling Techniques
+- Web Crawling with Selenium
+- Handling JavaScript
+- Dynamic Web Pages
+- Crawling AJAX-based Websites
+- Scrapy Advanced Concepts
+- Distributed Web Crawling with Scrapy
+- Working with Proxies in Web Crawling
+- Handling CAPTCHAs in Web Crawling
+- Scraping Websites using Headless Browsers
+- Building Crawler Traps and Handling them
+- Using Splash to Render JavaScript Pages
+- Scraping data from Websites behind Login Page
+- Extracting Data from APIs and RSS Feeds
+- Handling Large-Scale Web Crawling Projects
+- Best Practices for Web Crawling and Scraping.
+## 4. GUI Development
+- Introduction to GUI Development
+- Creating a Simple GUI
+- PyQt and Qt Designer
+- Tkinter
+- Flet.py
+- Kivy
+- wxPython
+- Creating Interactive Widgets and Forms
+- Customizing GUI Elements with CSS and Themes
+- Event-Driven Programming in GUI Development
+- Layout Management and Responsive Design
+- Working with Images, Icons, and Multimedia in GUIs
+- Data Visualization in GUI Applications
+- Integrating Web Technologies into GUI Applications
+- Using Database in GUI Development
+- Building Cross-Platform GUI Applications
+- Best Practices for GUI Application Development.
+## 5. Automation Development 
+- Introduction to Automation
+- Automation with Selenium
+- Locators and XPath
+- WebDriver
+- Handling Alerts and Pop-ups
+- Actions
+- Waits
+- Frames and Windows
+- Working with Cookies
+- Headless Browsing
+- Automation with PyAutoGUI
+- Mouse and Keyboard Automation
+- Image Recognition and OCR
+- Automating Web APIs
+- Automating Database Operations
+- Task Scheduling with Cron
+- Building Custom Automation Scripts.
+## 6. Scripting and Bot development, social media tools and Bots and Scraping Data from social media and Torrent + GitHub + OSINT. 
+- Introduction to Scripting
+- Social Media Automation
+- Bot Development with Telegram
+- Bot Development with Twitter
+- Bot Development with Discord
+- Bot Development with Instagram
+- Bot Development with WhatsApp
+- Bot Development with Spotify
+- Scraping Data from social media
+- Scraping Data from Torrent
+- Introduction to OSINT
+- Scraping Data with TG-Api
+- Scraping Data with Tweepy
+- Scraping Data with Discord.py
+- Scraping Data with Instaloader
+- Scraping Data with WhatsApp Web
+- Scraping Data with Spotipy
+- Analyzing Social Media Data with Pandas
+- Building Custom Bots with Bot Frameworks
+- Working with APIs and OAuth2 Authentication
+- Best Practices for Social Media Automation and Bot Development
+- Introduction to GitHub
+- Uploading and Managing Code on GitHub
+- Collaborating on Projects with GitHub
+- Using GitHub for Project Management and Issue Tracking
+- Best Practices for Version Control with GitHub
+- Introduction to OSINT Tools and Techniques
+- Collecting and Analyzing Open Source Intelligence
+- Social Engineering and Information Gathering with OSINT
+- Using OSINT for Threat Intelligence and Incident Response.
+## 7. Basic Flask and Django + PWA
+- Introduction to Flask and Django
+- Setting up Flask
+- Developing a Simple Flask Application
+- Introduction to Django
+- Setting up Django
+- Developing a Simple Django Application
+- Introduction to PWA
+- Building a Basic PWA with HTML, CSS, and JavaScript
+- Adding Service Workers to a PWA
+- Using Local Storage and IndexDB in PWAs
+- Implementing Push Notifications in a PWA
+- Introduction to Flask Extensions and Plugins
+- Developing a Flask RESTful API
+- Working with Flask Templates and Forms
+- Connecting Flask with Databases
+- Introduction to Django Models and Views
+- Developing a Django RESTful API
+- Working with Django Templates and Forms
+- Connecting Django with Databases
+- Building Advanced Web Applications with Flask and Django
+- Best Practices for Flask and Django Development
+- Deploying Flask and Django Applications to Production Servers.
+## 8. Tools, Plugins, and Extension Development just with Python 
+- Introduction to Tools and Plugins
+- Development of Chrome Extensions
+- Development of ChatGPT
+- Development of VS Code Plugins
+- Development of X UI
+- Introduction to Axiom
+- Development of Axiom.AI
+- Introduction to V2ray
+- Development of V2ray
+- Development of WordPress Plugins
+- Development of Flask Extensions
+- Development of Django Packages
+- Building Custom Tools and Utilities using Python Libraries
+- Working with APIs and Webhooks in Tool and Plugin Development
+- Best Practices for Tool and Plugin Development
+- Developing Command-Line Applications with Click
+- Building Cross-Platform Desktop Applications with PyQt and PySide
+- Developing Browser Automation Scripts with Selenium and Beautiful Soup
+- Developing GUI Applications with PyGTK and PyGObject
+- Building Network Tools and Utilities with Scapy
+- Developing Image Processing and Computer Vision Tools with OpenCV
+- Developing Machine Learning and Data Science Tools with Scikit-Learn and Pandas.
+## 9. Deployment of Python Apps (Pyinstaller - Heroku - AWS)
+- Introduction to Deployment
+- Deployment with Pyinstaller
+- Deployment with Heroku
+- Deployment with AWS
+- Setting up an EC2 instance on AWS
+- Deploying a Flask/Django Application on AWS
+- Using Amazon RDS for Databases in AWS
+- Using Elastic Beanstalk for App Deployment on AWS
+- Introduction to Containerization and Docker
+- Building Docker Images for Python Applications
+- Running Docker Containers on Local Machines
+- Deploying Docker Containers on AWS
+- Best Practices for Deployment of Python Applications
+- Scaling and Load Balancing with AWS
+- Setting up Monitoring and Logging in AWS
+- Deploying Python Applications with Kubernetes
+- Managing Configuration and Secrets in Production Deployments.
+## 10. DevOps and Version Control and Virtual Environment in python (Git - Docker)
+- Introduction to DevOps
+- Introduction to Version Control
+- Working with Git
+- Principles of Docker
+- Creating Docker images
+- Introduction to Virtual Environments
+- Setting up and using Virtual Environments
+- Best Practices for Virtual Environments
+- Installing Packages and Libraries in Virtual Environments
+- Managing Dependencies with Pip and requirements.txt
+- Creating and using Custom Environments
+- Sharing Virtual Environments with Others
+- Managing Python Versions within a Virtual Environment
+- Using Virtual Environments with Jupyter Notebooks
+- Configuring Environment Variables in Virtual Environments
+- Debugging Virtual Environment Issues
+- Best Practices for Version Control with Virtual Environments
+- Working with Anaconda Environments
+- Using Docker Containers for Python Development
+- Building and Deploying Python Applications with Docker
+- Continuous Integration and Continuous Deployment (CI/CD) with Git and Docker
+- Container Orchestration with Kubernetes
+- Monitoring and Logging with Docker and Kubernetes.
+## 11. Data Manipulation and Batch Scripting 
+- Introduction to Data Manipulation and Batch Scripting
+- Building a Web Crawler
+- Extracting Data from Websites
+- Batch Processing Data
+- Search Engine Development
+- Introduction to Data Manipulation Libraries in Python (NumPy, Pandas)
+- Working with CSV and Excel Files for Data Manipulation
+- Data Cleaning, Preprocessing, and Wrangling Techniques
+- Data Visualization with Matplotlib and Seaborn
+- Building Custom Data Manipulation and Analysis Scripts
+- Batch Processing Data with Python
+- Automating Data Manipulation and Batch Processing Tasks
+- Introduction to Search Engine Development
+- Building a Simple Search Engine with Python
+- Developing Web Crawlers and Scrapers for Search Engines
+- Indexing and Ranking Algorithms for Search Engines
+- Best Practices for Data Manipulation, Batch Scripting, and Search Engine Development.
+## 12. Database Manipulation with python
+- Introduction to Databases
+- Working with MySQL
+- Introduction to SQLAlchemy
+- Querying with SQLAlchemy
+- Inserting, Updating, and Deleting Data with SQLAlchemy
+- Working with PostgreSQL
+- Introduction to MongoDB
+- Querying with PyMongo
+- Inserting, Updating, and Deleting Data with PyMongo
+- Aggregation Framework in MongoDB
+- Working with Redis and Memcached
+- NoSQL vs SQL Databases
+- Best Practices for Database Manipulation
+- Indexing and Optimization Techniques for Databases
+- Using ORMs for Database Development
+- Building Custom Database Scripts for Data Manipulation and Analysis.
+## 13. Data Mining and Data Analysis
+- Introduction to Data Mining
+- Data Mining Techniques
+- Introduction to Data Analysis
+- Data Analysis Techniques
+- Data Mining with Python Libraries (Scikit-Learn, NLTK)
+- Exploratory Data Analysis with Pandas
+- Statistical Analysis with Python (SciPy, StatsModels)
+- Machine Learning for Data Mining and Analysis
+- Feature Engineering and Feature Selection Techniques
+- Clustering and Classification Techniques
+- Regression Analysis and Predictive Modeling
+- Text Mining and Sentiment Analysis
+- Time Series Analysis and Forecasting
+- Anomaly Detection and Outlier Analysis
+- Dimensionality Reduction Techniques (PCA, LDA, t-SNE)
+- Best Practices for Data Mining and Analysis.
+## 14. Chatbots and Natural Language Processing
+- Introduction to Chatbots
+- Development of Chatbots
+- Introduction to Natural Language Processing
+- Preprocessing and Text Cleaning
+- Text Classification
+- Sentiment Analysis
+- Named Entity Recognition
+- Topic Modeling
+- Text Summarization
+- Language Translation with Neural Machine Translation
+- Chatbot Development with NLTK
+- Chatbot Development with SpaCy
+- Chatbot Development with Rasa
+- Building Custom NLP Models with TensorFlow and Keras
+- Best Practices for Chatbot Development and NLP
+- Integrating Chatbots with Voice Assistants (Alexa, Google Assistant)
+- Conversational UI Design.
+## 15. Personal Assistant Development + PyTorch 
+- Introduction to Personal Assistant Development
+- Introduction to PyTorch
+- Introduction to gTTS
+- Developing and Deploying a Personal Assistant
+- Building a Custom Wake Word Detection Model with PyTorch
+- Developing an NLP Model for Personal Assistant with PyTorch and NLTK
+- Text-to-Speech Conversion with gTTS
+- Speech Recognition with Python Libraries (SpeechRecognition, PocketSphinx)
+- Integrating APIs and Webhooks in Personal Assistant Development
+- Best Practices for Personal Assistant Development
+- Deploying Personal Assistant to Production Servers
+- Adding Features and Capabilities to Personal Assistant (News, Weather, Email, Music Streaming)
+- Developing AI-Powered Personal Assistants with Deep Learning and Reinforcement Learning Techniques.
+## 16. Big Data processing
+- Introduction to Big Data Processing
+- Introduction to Hadoop
+- Introduction to Spark
+- Introduction to MapReduce
+- Working with Hadoop Distributed File System (HDFS)
+- Setting up a Hadoop Cluster
+- Data Processing with MapReduce
+- Introduction to Spark Core and RDDs
+- Data Processing with Spark SQL
+- Data Processing with Spark Streaming
+- Working with NoSQL Databases for Big Data (MongoDB, Cassandra)
+- Big Data Visualization with Apache Zeppelin and Jupyter Notebooks
+- Best Practices for Big Data Processing and Analysis
+- Building Custom Big Data Analytics Pipelines with Python.e
+- Working with Hadoop Distributed File System (HDFS)
+- Setting up a Hadoop Cluster
+- Data Processing with MapReduce
+- Introduction to Spark Core and RDDs
+- Data Processing with Spark SQL
+- Data Processing with Spark Streaming
+- Working with NoSQL Databases for Big Data (MongoDB, Cassandra)
+- Big Data Visualization with Apache Zeppelin and Jupyter Notebooks
+- Best Practices for Big Data Processing and Analysis
+- Building Custom Big Data Analytics Pipelines with Python.
+## 17. Pentesting and Legal Hacking with Python 
+- Introduction to Legal Hacking
+- Brute-Force Attacks with Python
+- WiFi Penetration Testing
+- Introduction to the Darkweb
+- Accessing the Darkweb with Python
+- Web Application Penetration Testing with Python
+- Network Scanning and Enumeration with Python
+- Packet Sniffing with Scapy
+- Password Cracking with Python
+- Social Engineering Techniques and Attacks
+- Malware Analysis with Python
+- Forensics and Incident Response with Python
+- Cyber Threat Intelligence and Analysis with Python
+- Best Practices for Legal Hacking and Pentesting
+- Compliance and Regulatory Requirements for Legal Hacking
+- Ethical Considerations in Legal Hacking.
+## 18. Data Visualization
+- Introduction to Data Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+- Interactive Data Visualization with Bokeh
+- Geographic Data Visualization with Basemap and Cartopy
+- Network Graphs Visualization with NetworkX and Gephi
+- Visualizing Large-Scale Data using Dask and Datashader
+- Best Practices for Data Visualization in Python
+- Customizing Plots with Matplotlib and Seaborn
+- Plotting Time Series and Geospatial Data
+- Building Interactive Dashboards with Plotly and Dash
+- Creating Static and Dynamic Maps with Folium
+- Advanced Data Visualization Techniques
+- Visualizing Machine Learning Models with Yellowbrick
+- Integrating Data Visualization with Web Development.
+## 19. Neural network and Machine Learning and AI
+- Introduction to NN
+- Introduction to ML
+- Introduction to AI
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- Linear Regression
+- Logistic Regression
+- Decision Trees and Random Forests
+- Support Vector Machines
+- Naive Bayes
+- K-Nearest Neighbors
+- Neural Networks and Deep Learning
+- Convolutional Neural Networks (CNNs)
+- Recurrent Neural Networks (RNNs)
+- Generative Adversarial Networks (GANs)
+- Transfer Learning and Fine-Tuning
+- Model Evaluation and Validation Techniques
+- Hyperparameter Tuning and Optimization
+- Best Practices for Machine Learning and AI
+- Building Custom ML Pipelines with Python.
+Content List for "Developing AI from Zero with Python":
+- Introduction to GPT-3 and GPT-4
+- Generating Text using OpenAI API and Python
+- Fine-tuning GPT-3 and GPT-4 for specific tasks
+- Training a GPT-3 and GPT-4-Like Model using TensorFlow or PyTorch
+- Understanding and building CNNs
+- Image Classification using Keras
+- Visualization of CNNs with TensorBoard
+- Transfer Learning with pre-trained CNNs like VGG, ResNet, and Inception
+- Introduction to RNNs
+- Building Character-level Language Models using Keras
+- Sequence-to-sequence models for Language Translation
+- Text Generation using RNNs and LSTMs
+- Introduction to GANs
+- Generating Images using GANs in Keras
+- Conditional GANs for attribute-based image generation
+- CycleGAN for style transfer between two domains
+- Introduction to Generative Models
+- Variational Autoencoders (VAEs) for Image Generation
+- Generative Flow Models like Glow and RealNVP
+- Normalizing Flows for Density Estimation and Sampling
+- Understanding the Diffusion Process and its Applications in Data Science
+- Implementing Diffusion-based Models in Python
+- Applications of Diffusion Processes in Social Networks, Finance, and Biology
+- Introduction to ChatGPT and its Capabilities
+- Building a Simple Chatbot using ChatGPT and Python
+- Fine-tuning ChatGPT for Specific Chatbot Use Cases
+- Integrating ChatGPT with Messaging Platforms like Facebook Messenger and Slack
+- Saving and Loading Trained Models in Python
+- Web Deployment with Flask and Django Frameworks
+- Cloud Deployment on Platforms like AWS, Azure, and Google Cloud
