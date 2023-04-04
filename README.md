@@ -5,10 +5,10 @@ This is a comprehensive Python course that covers everything from the basics to 
 The course is designed to help beginners learn Python programming and enable advanced users to refine their skills. 🔰
 
 ## 0. Introduction to Python 📜
-  🌐 What is Python and what are its uses? 
-  💻 Installing a Python environment on different platforms  
-  🚀 Writing your first Python "Hello World" program 
-  🏃‍♂️ Comments in Python and their usage 
+- 🌐 What is Python and what are its uses? 
+- 💻 Installing a Python environment on different platforms  
+- 🚀 Writing your first Python "Hello World" program 
+- 🏃‍♂️ Comments in Python and their usage 
 
 ## 1. Basic Concepts 💾
   🧮 Understanding variables and their use  
