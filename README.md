@@ -136,8 +136,6 @@ Welcome to the Python Slayer Course! 🎉
  - 📋 Test-driven development (TDD) and Behavior-driven development (BDD)
  - 🎯 Challenges and projects for practice 
 
-## Phase 2: Advanced
-
 ### 11. Time Handling in Python 🕰️
  - 🕒 Working with time and date in Python - Time zones, Time intervals, Elapsed time
  - 📈 Understanding datetime module in Python - datetime objects, strftime() and strptime() methods, timedelta objects
@@ -158,6 +156,9 @@ Welcome to the Python Slayer Course! 🎉
  - 📋 System information - Retrieving system information such as CPU usage, memory usage, disk space, etc. using platform, psutil, and other modules.
  - 🚀 Asynchronous programming - Using asyncio module to write asynchronous code with coroutines, tasks, and event loops.
  - 🎯 Challenges and projects for practice 
+
+## Phase 2: Advanced
+
 
 ### 13. Internet Accessing, Web Scraping and Parsing 🌐
  - 📜 Basic Concepts of Web Scraping - Understanding web scraping, its importance, and legal issues
