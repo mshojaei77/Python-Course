@@ -4,7 +4,7 @@ Welcome to the Python Slayer Course! 🎉
 - This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language.
 - The course is designed to help beginners learn Python programming and enable advanced users to refine their skills.
 
-## Phase 1 : Basics
+## Phase 1 : Basics topics 
 
 ### 0. Introduction to Python 📜
 - 🌐 What is Python and what are its uses? 
@@ -157,7 +157,7 @@ Welcome to the Python Slayer Course! 🎉
  - 🚀 Asynchronous programming - Using asyncio module to write asynchronous code with coroutines, tasks, and event loops.
  - 🎯 Challenges and projects for practice 
 
-## Phase 2: Advanced
+## Phase 2: Advanced topics
 
 
 ### 13. Internet Accessing, Web Scraping and Parsing 🌐
@@ -285,7 +285,7 @@ Welcome to the Python Slayer Course! 🎉
  - 🚀 Deploying Python Applications with Kubernetes
  - 🔒 Managing Configuration and Secrets in Production Deployments.
 
-## phase 3: Additional
+## phase 3: Specialized topics
 
 ### 17. Automation Development 
  - 🤖 Introduction to Automation
