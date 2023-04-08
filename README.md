@@ -6,14 +6,11 @@ Welcome to the Python Slayer Course! 🎉
 
 ## Phase 1 : Basics topics 
 
-### 0. Introduction to Python 📜
-- 🌐 What is Python and what are its uses? 
-- 💻 Installing a Python environment on different platforms  
-- 🚀 Writing your first Python "Hello World" program 
-- 🏃‍♂️ Comments in Python and their usage 
+### 0. Introduction to Python 
+📜 #What_is_Python #Installing #Vscode #Jupiter #Hello_World #Comments 
 
-### 1. Basic Concepts 💾
-- 🧮 Understanding variables and their use  
+### 1. Basic Concepts 
+💾 #Variables
 - 💡 Learning about data types in Python (integers, floats, strings) 
 - 🔢 Numeric data types and their functions  
 - 🎶 String data types and their functions  
