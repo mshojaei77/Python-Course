@@ -22,7 +22,7 @@ Welcome to the Python Slayer Course! 🎉
 ### 6. Object-Oriented Programming in Python 
 🌀 #OOP #classe #object #constructor #attribute #method #Inheritance #Encapsulation #Abstraction #modifier #Polymorphism #init #str #repr #Singleton #Factory #Observer #Decorator #Composition #Aggregation #Mixin
 
-## 7. Working with Files 
+### 7. Working with Files 
 📁 #read() #readline() #readlines() #write() #writelines() #FileNotFoundError #PermissionError #file-paths #text #csv #Excel #JSON #XML #pdf #docx #ZIP #Memory_mapping Context_managers Binary_files
 
 ### 8. Regular Expressions in Python 
