@@ -4,8 +4,6 @@ Welcome to the Python Slayer Course! 🎉
 - This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language.
 - The course is designed to help beginners learn Python programming and enable advanced users to refine their skills.
 
-## Phase 1 : Basics topics 
-
 ### 0. Introduction to Python 
 📜 #What_is_Python #Installing #Vscode #Jupiter #Hello_World #Comments 
 
