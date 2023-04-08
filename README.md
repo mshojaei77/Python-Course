@@ -10,152 +10,42 @@ Welcome to the Python Slayer Course! 🎉
 📜 #What_is_Python #Installing #Vscode #Jupiter #Hello_World #Comments 
 
 ### 1. Basic Concepts 
-💾 #Variables
-- 💡 Learning about data types in Python (integers, floats, strings) 
-- 🔢 Numeric data types and their functions  
-- 🎶 String data types and their functions  
-- ♻️ Typecasting data in Python 
-- ✅ Operators in Python and their usage  
-- 🖨️ Printing outputs with print() 
-- ⌨️ Taking input from users using input()  
-- 🆎 ASCII code and its implementation in Python  
-- 🎯 Challenges and projects for practice 
+💾 #Variables #data_types #Numeric_functions #String_functions #Typecasting #Operators #f-strings #print() #input() #ASCII 
 
-### 2. Control Structures 🚦
- - ⚖️ Decision making with if...else and match...case statements 
- - 🔁 Loops in Python - For and While 
- - 🔽 Break and Continue statements 
- - 🔄 Nested loops and their implementations 
- - 🎯 Challenges and projects for practice 
+### 2. Control Structures 
+🚦#if #else #matchcase #For_loop #While_loop #Break #Continue  
 
-### 3. Functions 🔄 
- - 🎬 Introduction to functions and their use  
- - 🎭 Creating functions and defining arguments 
- - 💼 Returning values from functions  
- - 📦 Built-in functions in Python  
- - 🔍 Lambda functions and their implementation 
- - 🔁 Recursive functions and their uses 
- - 📚 Function annotations and their significance
- - 🌟 Default arguments and their usage
- - 🔧 Keyword arguments and their implementation
- - 📊 Higher-order functions and their importance
- - 💡 Function decorators and their applications
- - 👨‍👩‍👧‍👦 Anonymous functions and their usage in Python
- - 🎯 Challenges and projects for practice 
+### 3. Functions 
+🔄 #functions #def #Return #methods #Lambda #Recursive #arguments #decorators 
 
-### 4. Data Structures and Algorithms 🗂️
- - 📜 Data structures in Python - Lists, Tuples, Dictionaries, Sets  
- - 📈 Linear data structures - Stacks, Queues, Linked Lists
- - 🧮 Non-linear data structures - Trees and Graphs
- - 🔮 Implementing algorithms using data structures 
- - 🔍 Sorting and Searching algorithms 
- - 🎯 Algorithm analysis and complexity
- - 🌲 Tree traversal algorithms - Inorder, Preorder, Postorder
- - 🤝 Graph traversal algorithms - Breadth First Search (BFS), Depth First Search (DFS)
- - 🧬 Recursion and its applications in programming
- - 🎭 Dynamic Programming and its applications
- - 🧩 Divide and Conquer algorithms
- - 🚀 Greedy algorithms and their implementation
- - 📉 Big-O notation and its significance in algorithm analysis
- - 💻 Data Structures and Algorithms in Python libraries
- - 🎯 Challenges and projects for practice 
+### 4. Data Structures and Algorithms 
+🗂️ #List #Tuple #Dictionary #Set #Array #Stack #Queue #LinkedList #Tree #Graph #Sorting #Searching  
 
-### 5. Working with Modules 📦 
- - 🧩 What are modules in Python and how to use them  
- - 📥 Importing modules in Python using different methods and namespaces
- - 🧭 Understanding the module search path and manipulating it
- - 🛠️ Creating your own modules and packages and distributing them using PyPI
- - 📚 The standard library in Python - os, sys, math, datetime, random, etc.
- - 💡 Working with third-party modules and libraries using pip
- - 🎯 Challenges and projects for practice 
+### 5. Working with Modules 
+📦 #modules #Import #namespace #PyPI  #math #random #sys #os #pip #requirements.txt
 
-### 6. Object-Oriented Programming in Python 📜
- - 🎬 Introduction to OOPs in Python  
- - 🎭 Creating classes and objects using constructors, attributes, and methods
- - 💥 Inheritance - Single, Multiple, and Multi-Level inheritance in Python
- - 🎯 Encapsulation and Abstraction - Access modifiers, getters and setters, and abstract classes
- - 🌟 Polymorphism - Method Overloading and Method Overriding
- - 📦 Built-in functions and operators for classes in Python
- - 🚀 Using special methods such as init, str, repr, etc.
- - 🎨 Design patterns in OOPs - Singleton, Factory, Observer, Decorator, etc.
- - 🔧 Advanced concepts in OOPs - Composition, Aggregation, Mixin, etc.
- - 🤝 Collaborating objects and classes in modules and packages
- - 📊 Data modeling using Object-Oriented Programming
- - 🎯 Challenges and projects for practice 
+### 6.  Virtual Environments
+💻 #os #subprocess #shutil  #Virtual_Environments #venv #git #github #Docker
+📚 #multi-threading #multiprocessing #threading #psutil #signal #asyncio 
 
-### 7. Regular Expressions in Python 🔍
- - 🔍 Understanding regular expressions and their syntax, metacharacters, and quantifiers
- - 🌀 Implementing regular expressions in Python using the re module
- - 🎯 Matching patterns and searching for strings using regular expressions
- - 👨‍💻 Pattern matching and substitution using regular expressions
- - 🌟 Special sequences in regular expressions - Anchors, Word Boundaries, Escape Characters, etc.
- - 📋 Character sets and groups in regular expressions
- - 📏 Quantifiers in regular expressions (- , +, ?, {})
- - 🛠️ Advanced regular expression topics: Lookahead and Lookbehind assertions, Backreferences, Named Groups
- - 🎯 Challenges and projects for practice 
+### 7. Object-Oriented Programming in Python 
+📜 #OOP #classe #object #constructor #attribute #method 
+🌀 #Inheritance #Encapsulation #Abstraction #modifier #Polymorphism #init #str #repr #Singleton #Factory #Observer #Decorator #Composition #Aggregation #Mixin
 
-## 8. Working with Files 📁 
- - 📖 Opening and closing files in Python using different modes
- - 📂 Reading from files using read(), readline(), and readlines() methods
- - 💾 Writing to files using write() and writelines() methods
- - 🔍 Searching and manipulating data in files using regular expressions
- - 📜 Handling file exceptions such as FileNotFoundError and PermissionError
- - 📊 Data manipulation and analysis using files - JSON, XML, text, csv , Excel, pdf , docx , ZIP, .
- - 🌟 Advanced topics in files - Memory mapping, Context managers, Binary files, etc.
- - 🎯 Challenges and projects for practice 
+### 8. Regular Expressions in Python 
+🔍 #regex #re #Pattern_matching #substitution #Anchors #WordBoundaries #EscapeCharacters #Quantifiers #Lookahead #Lookbehind #Backreferences
 
-### 9. Exception Handling 🚫 
- - ❗ Understanding exceptions in Python and their types
- - 💡 Handling exceptions using try-except blocks and handling multiple exceptions
- - 🌟 Raising exceptions manually using raise keyword
- - 🎬 Using finally block with try-except to close resources
- - 📜 Custom exceptions and their implementation
- - 📋 Exception hierarchy and inheritance in Python
- - 🚀 Exception handling in multi-threaded and multi-process applications
- - 🕵️‍♀️ Debugging and troubleshooting exception-related issues
- - 👥 Collaborating with exceptions in software development
- - 🧪 Unit testing exceptions and test-driven development (TDD)
- - 📈 Exceptions in libraries and frameworks - NumPy, Pandas, Django, Flask
- - 🔀 Context managers and exception handling
- - 📊 Data validation and cleaning using exceptions
- - 🎯 Challenges and projects for practice 
+## 9. Working with Files 
+📁 #read() #readline() #readlines() #write() #writelines() #FileNotFoundError #PermissionError #file-paths #text #csv #Excel #JSON #XML #pdf #docx #ZIP #Memory_mapping Context_managers Binary_files 
 
-### 10. Testing and Debugging Python Code 🐛
- - 💡 Different methods of testing Python code - Manual testing, Unit testing, Integration testing, Regression testing
- - 🔍 Debugging techniques in Python - print statements, logging, debugging tools (pdb, PyCharm debugger, VSCode debugger)
- - 🧪 Unit testing with PyUnit and pytest - Test discovery, fixtures, test runners, assertions
- - 📈 Code coverage analysis using tools such as Coverage.py
- - 🚨 Error tracking and monitoring using tools such as Sentry
- - 🕵️‍♀️ Debugging and troubleshooting common issues in Python - Syntax errors, Name errors, Type errors, etc.
- - 📊 Data validation and cleaning using tests
- - 🛡️ Security testing and vulnerability scanning
- - 🧬 Mutation testing and fuzz testing
- - 📋 Test-driven development (TDD) and Behavior-driven development (BDD)
- - 🎯 Challenges and projects for practice 
+### 10. Exception Handling 
+🚫 #exceptions #try_except #raise #finally #hierarchy 
 
-### 11. Time Handling in Python 🕰️
- - 🕒 Working with time and date in Python - Time zones, Time intervals, Elapsed time
- - 📈 Understanding datetime module in Python - datetime objects, strftime() and strptime() methods, timedelta objects
- - 📅 Converting between different time formats - ISO format, Unix timestamp, string format
- - 🌐 Network time protocol (NTP) synchronization using Python
- - 📊 Data manipulation and analysis using dates and times - Monthly, Quarterly, and Yearly trends
- - 📋 Handling Daylight Saving Time (DST) changes
- - 🔒 Time-based access control and authentication
- - 🎯 Challenges and projects for practice 
+### 11. Testing and Debugging Python Code 
+🐛 #Manual #Unit #Integration #Regression #logging #pdb #PyCharm_debugger VSCode_debugger #PyUnit #pytest #Coverage.py #Sentry #Syntax_error #Name_error #Type_error #fuzz #TDD #BDD
 
-### 12. OS Interfaces + Task Management + virtual environment 💻
- - 🤖 Interacting with the operating system using Python - os, sys, subprocess modules
- - 📂 Listing directory contents and manipulating files using os and shutil modules
- - 🔧 Creating and working with virtual environments using venv module
- - 🚀 Parallel processing and multi-threading using multiprocessing and threading modules
- - 📋 Managing and killing processes using Python - psutil, signal modules
- - 📁 File and directory management - Creating, Deleting, Moving, Renaming files and folders
- - 📋 System information - Retrieving system information such as CPU usage, memory usage, disk space, etc. using platform, psutil, and other modules.
- - 🚀 Asynchronous programming - Using asyncio module to write asynchronous code with coroutines, tasks, and event loops.
- - 🎯 Challenges and projects for practice 
-
-## Phase 2: Advanced topics
-
+### 12. Time Handling in Python 
+🕰️ #Time_zones #Time_intervals #Elapsed_time #datetime #strftime() #strptime() #timedelta #ISO_format #Unix_timestamp #string_format #NTP #DST
 
 ### 13. Internet Accessing, Web Scraping and Parsing 🌐
  - 📜 Basic Concepts of Web Scraping - Understanding web scraping, its importance, and legal issues
@@ -231,7 +121,7 @@ Welcome to the Python Slayer Course! 🎉
  - 👨‍💻 Development of Chatbots
  - 🧠 Introduction to Natural Language Processing
  - 🧹 Preprocessing and Text Cleaning
- - 📚 Text Classification
+ - C Text Classification
  - 😃 Sentiment Analysis
  - 🏷️ Named Entity Recognition
  - 🌐 Topic Modeling
@@ -351,30 +241,6 @@ Welcome to the Python Slayer Course! 🎉
  - 🔭 Developing Image Processing and Computer Vision Tools with OpenCV
  - 🤖 Developing Machine Learning and Data Science Tools with Scikit-Learn and Pandas.
 
-### 20. DevOps and Version Control and Virtual Environment in python
- - 🚀 Introduction to DevOps
- - 📝 Introduction to Version Control
- - 🗃️ Working with Git
- - 🐳 Principles of Docker
- - 🐋 Creating Docker images
- - 🌱 Introduction to Virtual Environments
- - 💻 Setting up and using Virtual Environments
- - 🥇 Best Practices for Virtual Environments
- - 📦 Installing Packages and Libraries in Virtual Environments
- - 🧰 Managing Dependencies with Pip and requirements.txt
- - 📦 Creating and using Custom Environments
- - 👥 Sharing Virtual Environments with Others
- - 🐍 Managing Python Versions within a Virtual Environment
- - 📚 Using Virtual Environments with Jupyter Notebooks
- - 🔧 Configuring Environment Variables in Virtual Environments
- - 🔍 Debugging Virtual Environment Issues
- - 🥇 Best Practices for Version Control with Virtual Environments
- - 💻 Working with Anaconda Environments
- - 🐳 Using Docker Containers for Python Development
- - 🚀 Building and Deploying Python Applications with Docker
- - 🏎️ Continuous Integration and Continuous Deployment (CI/CD) with Git and Docker
- - 🎭 Container Orchestration with Kubernetes
- - 🔍 Monitoring and Logging with Docker and Kubernetes.
 
 ### 21. Data Manipulation and Batch Scripting
  - 💾 Introduction to Data Manipulation and Batch Scripting
