@@ -2,10 +2,11 @@
 
 Welcome to the Python Slayer Course! 🎉
 - This is a comprehensive Python course that covers everything from the basics to the advanced concepts of Python programming language.
-- The course is designed to help beginners learn Python programming and enable advanced users to refine their skills.
+
+-----
 
 ### 1. Basic Concepts 
-💾 #Python #Installing #Vscode #Jupiter #Hello_World #Comments#Variables #data_types #Numeric_functions #String_functions #Typecasting #Operators #f-strings #print() #input() #ASCII 
+💾 #Python #Installing #Vscode #Jupiter #Hello_World #Comments #Variables #DataType #Typecasting #Operators #f-strings #print() #input() #ASCII 
 
 ### 2. Control Structures and Functions 
 🚦#if #else #matchcase #For_loop #While_loop #Break #Continue #Pass #functions #def #Return #methods #Lambda #Recursive #arguments #decorators 
@@ -17,7 +18,7 @@ Welcome to the Python Slayer Course! 🎉
 📦 #modules #Import #namespace #PyPI  #math #random #sys #os #pip #requirements.txt
 
 ### 5. Oprating Systems and Virtual Environments
-💻 #os #subprocess #shutil #Virtual_Environments #venv #git #github #Docker
+💻 #os #subprocess #shutil #Virtual_Environments #venv #git #github #Docker #Pyinstaller 
 
 ### 6. Object-Oriented Programming in Python 
 🌀 #OOP #classe #object #constructor #attribute #method #Inheritance #Encapsulation #Abstraction #modifier #Polymorphism #init #str #repr #Singleton #Factory #Observer #Decorator #Composition #Aggregation #Mixin
@@ -40,13 +41,13 @@ Welcome to the Python Slayer Course! 🎉
 🌐 #WebScraping #HTTP_Protocol #HTML #CSS #BeautifulSoup #lxml #APIs #RESTfulAPI #access_token #requests #urllib #Scrapy #spiders #pipelines #middlewares #Selectors #Crawling #XPath #CSS_Selectors #Selenium #json #xml #SocialMedia #RSS #ATOM #parallel_crawling #depth-first_crawling #breadth-first_crawling #Splash #AJAX_websites #Proxies #CAPTCHAs #PhantomJS #Puppeteer #LoginPage #BatchScripting #SearchEngine
 
 ### 12. Bot development 
-🤖 #Telegram #Pyrogram #Python_Telegram_Bot #TG-Api #Twitter #Tweepy #Discord #Discord.py #Instagram #Instaloader #WhatsApp #Spotify #Spotipy #Torrent #OSINT #OAuth2 #Chatbots #NaturalLanguageProcessing #NLTK #SpaCy #Rasa #TensorFlow #Keras #VoiceAssistants #Alexa #GoogleAssistant #Heroku #AWS 
+🤖 #Telegram #Telethon #Python_Telegram_Bot #TG-Api #Twitter #Tweepy #Discord #Instagram #Instaloader #WhatsApp #Spotify #Spotipy #Torrent #OSINT #OAuth2 #Chatbots #NaturalLanguageProcessing #NLTK #SpaCy #Rasa #TensorFlow #Keras #VoiceAssistants #Alexa #GoogleAssistant #Heroku #AWS 
 
 ### 13. Desktop App Development
 🖼️ #GUI #PyQt #Tkinter #Flet.py 
 
 ### 14. Web App Development 
-💻 #Flask #Django #PWA #Database #MySQL#SQLAlchemy #PostgreSQL #MongoDB #PyMongo #Redis #Memcached #ORMs  #Plugins #Extensions #WordPress #Pyinstaller
+💻 #Flask #Django #PWA #Database #MySQL#SQLAlchemy #PostgreSQL #MongoDB #PyMongo #Redis #Memcached #ORMs #Chrome-Extensions
  
 ### 15. Data Science
 📊 #DataMining #Scikit-Learn #NLTK #DataAnalysis #NumPy #Pandas #Matplotlib #Seaborn #SciPy #StatsModels #Kubernetes
