@@ -12,7 +12,7 @@ This is a comprehensive Python course that covers everything from the basics to 
    🔸 #if #else #match_case #For_loop #While_loop #Break #Continue #Pass #Functions #def #Return #Lambda #Recursive #arguments #decorators
 
 3. Data Structures and Algorithms\
-   🗂 #List #Tuple #Dictionary #Set #Array #Stack #Queue #LinkedList #Tree #Graph #Sorting #Searching #numpy #pandas #scipy #networkx #Scikit-Learn 
+   🗂 #List #Tuple #Dictionary #Set #Array #Stack #Queue #LinkedList #Tree #Graph #Sorting #Searching  
 
 4. Working with Modules and Packages\
    📦 #Modules #import #namespace #PyPI #math #random #sys #os #pip #requirements_txt
