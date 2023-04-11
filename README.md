@@ -39,7 +39,7 @@ This is a comprehensive Python course that covers everything from the basics to 
     🌐 #WebScraping #HTTP_Protocol #HTML #CSS #requests #urllib #BeautifulSoup #lxml #APIs #RESTfulAPI #configparser #pyquery #Scrapy #spiders #pipelines #middlewares #Selectors #Crawling #XPath #CSS_Selectors #Selenium #json #xml #SocialMedia #RSS #ATOM #parallel_crawling #Splash #AJAX_websites #Proxies #CAPTCHAs #PhantomJS #Puppeteer #LoginPage #BatchScripting #SearchEngine
 
 12. Building Bots with Python\
-    🤖 #Telegram #Pyrogram #Python_Telegram_Bot #teleparser #Twitter #Tweepy #twilio #Discord #Instagram #Instaloader #instabot #WhatsApp #getcontact #Spotify #Spotipy #Torrent #OSINT #OAuth2 #Heroku #AWS #Chatbots #NaturalLanguageProcessing #NLTK #SpaCy #Rasa #TensorFlow #Keras #VoiceAssistants #Alexa #GoogleAssistant 
+    🤖 #Telegram #Telethon #Pyrogram #Twitter #Tweepy #twilio #Discord #Instagram #Instaloader #instabot #WhatsApp #getcontact #Spotify #Spotipy #Torrent #OSINT #OAuth2 #Heroku #AWS #Chatbots #NaturalLanguageProcessing #NLTK #SpaCy #Rasa #TensorFlow #Keras #VoiceAssistants #Alexa #GoogleAssistant 
 
 13. Desktop App Development with Python\
     🖼 #GUI #PyQt #Tkinter #Flet #Pillow #Pyinstaller #pywin32 #py2exe #ctypes #winreg
