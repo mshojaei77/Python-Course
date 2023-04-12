@@ -19,7 +19,7 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Sorting algorithms - Bubble Sort, Selection Sort, Insertion Sort 
 - Graph algorithms - Breadth First Search, Depth First Search 
 
-### Week 3: Working with Modules
+### Week 3: Working with Modules 📦
 - Introduction to modules and libraries in Python 
 - Namespaces and how they work in Python 
 - Basic syntax for importing modules and using their functions 
@@ -32,7 +32,7 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Working with version control systems like Git and GitHub, and using libraries like gitpython 
 - Containerization using Docker 
 
-### Week 4: File handling and Regular expressions 
+### Week 4: File handling and Regular expressions 📁
 - Reading and writing files in Python using different methods like read(), readline() and readlines()
 - Understanding file modes like read-mode, write-mode, append-mode and binary-mode
 - Handling exceptions while working with files like FileNotFoundError, PermissionError etc.
@@ -42,13 +42,19 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Working with memory mapping for large files 
 - Binary files and their usage in Python
 
-### Week 5: Object-Oriented Programming in Python 
+### Week 5: Testing, Debugging, and Error Handling 🐛
+- Types of Errors and Exceptions
+- Debugging Techniques
+- Unit Testing with Pytest
+- Error Handling using Try/Except Blocks
+
+### Week 6: Object-Oriented Programming in Python 🌀
 - Introduction to OOP concepts 
 - Classes, objects, and methods 
 - Inheritance, polymorphism, and encapsulation 
 - Abstract classes and interfaces 
 
-### Week 6: Web Scraping with Python 
+### Week 7: Web Scraping with Python 🌐
 - What is web scraping? An introduction to HTML and CSS
 - Making HTTP requests in Python with requests and urllib 
 - Libraries for web scraping - BeautifulSoup and Scrapy 
@@ -61,7 +67,7 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Dealing with CAPTCHAs and login pages 
 - Batch Scripting for automating large scale scraping tasks 
 
-### Week 7: Building Social Media Bots with Python 
+### Week 8: Building Social Media Bots with Python 🤖
 - Understanding Social Media APIs and their usage in Python
 - Twitter API and basics of Tweepy library for building Twitter bots 
 - Creating a Twitter bot that tweets automatically and liking/commenting on tweets using bots
@@ -77,7 +83,7 @@ This is a comprehensive Python course that covers everything from the basics to 
 - OAuth2 for authentication and authorization 
 - Deploying bots on cloud platforms like Heroku and AWS 
 
-### Week 8: GUI Development with Python 
+### Week 9: GUI Development with Python 📱
 - Introduction to GUI development and its benefits 
 - Basics of PyQT6 and other popular GUI libraries such as Tkinter, Flet etc. 
 - Creating simple GUI applications 
@@ -85,7 +91,7 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Working with images in GUI applications using Pillow 
 - Bundling your GUI application into an executable using Pyinstaller, py2exe, ctypes, winreg and pywin32. 
 
-### Week 9: Web Development with Python 
+### Week 10: Web Development with Python 💻
 - Introduction to web development and its components
 - Understanding HTTP and REST APIs 
 - Introduction to Django framework and its features 
@@ -96,12 +102,12 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Developing Chrome Extensions using Python 
 - Wordpress API integration with Python for building CMS applications 
 
-### Week 10: Data Science with Python 
+### Week 11: Data Science with Python 📊
 - Introduction to data science 
 - Libraries for data manipulation - NumPy, pandas 
 - Data visualization using Matplotlib and Seaborn 
 - Introduction to machine learning 
 - Regression and classification using Scikit-learn 
 
-### Week 11: Final project 
+### Week 12: Final project 🏁
 - Students will work on a final project of their choice that incorporates at least two concepts covered in the course. 
