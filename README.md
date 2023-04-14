@@ -99,8 +99,8 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Integrating databases with Django using SQLALchemy and MySQL database 
 - Creating an API using Django 
 - Building Progressive Web Applications(PWA) and their usage in web development 
-- Developing Chrome Extensions using Python 
-- Wordpress API integration with Python for building CMS applications 
+- Developing Chrome Extension 
+- Use PyQt to design User Interface and write Django code for backend functionality.Then use Buildozer to package the app as an Android APK file.
 
 ### Week 11: Data Science with Python 📊
 - Introduction to data science 
