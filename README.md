@@ -89,7 +89,8 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Creating simple GUI applications 
 - Event handling and callback functions for implementing interactivity 
 - Working with images in GUI applications using Pillow 
-- Bundling your GUI application into an executable using Pyinstaller, py2exe, ctypes, winreg and pywin32. 
+- Bundling your GUI application into an executable using Pyinstaller
+- Introduction to Phone App Development using Kivy and Buildozer. 
 
 ### Week 10: Web Development with Python 💻
 - Introduction to web development and its components
@@ -100,7 +101,7 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Creating an API using Django 
 - Building Progressive Web Applications(PWA) and their usage in web development 
 - Developing Chrome Extension 
-- Use PyQt to design User Interface and write Django code for backend functionality.Then use Buildozer to package the app as an Android APK file.
+- Use PyQt to design User Interface and write Django code for backend functionality.
 
 ### Week 11: Data Science with Python 📊
 - Introduction to data science 
