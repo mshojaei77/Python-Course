@@ -66,33 +66,22 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Scraping RSS and ATOM feeds 
 - Dealing with CAPTCHAs and login pages 
 - Batch Scripting for automating large scale scraping tasks 
-
-### Week 8: Building Social Media Bots with Python 🤖
-- Understanding Social Media APIs and their usage in Python
-- Twitter API and basics of Tweepy library for building Twitter bots 
-- Creating a Twitter bot that tweets automatically and liking/commenting on tweets using bots
-- Introduction to Telegram and working with its API using libraries like Pyrogram and Telethon
-- Building Telegram bots for automating tasks such as sending messages, forwarding media files etc. 
-- Using Twilio for building SMS bots 
-- Introduction to Discord and working with its API in Python 
-- Scraping Social Media Platforms such as Instagram using Instaloader and instabot 
-- Building WhatsApp bots with WhatsApp Business API and getcontact 
-- Automating Spotify with Spotipy for building music bots 
+- Introduction to Telegram and working with its API using libraries like Pyrogram   
+- Scraping Social Media Platforms such as Telegram, Twitter, Instagram 
 - Torrent automation using Python 
-- Introduction to OSINT (Open Source Intelligence) and its applications in social media scraping 
-- OAuth2 for authentication and authorization 
+- Introduction to OSINT (Open Source Intelligence) and its applications in social media scraping  
 - Deploying bots on cloud platforms like Heroku and AWS 
 
-### Week 9: GUI Development with Python 📱
+### Week 8: GUI Development with Python 📱
 - Introduction to GUI development and its benefits 
-- Basics of PyQT6 and other popular GUI libraries such as Tkinter, Flet etc. 
-- Creating simple GUI applications 
+- Basics of PyQT5 and PyQt6
 - Event handling and callback functions for implementing interactivity 
 - Working with images in GUI applications using Pillow 
 - Bundling your GUI application into an executable using Pyinstaller
+- Introduction to Phone App Development using Flet
 - Introduction to Phone App Development using Kivy and Buildozer. 
 
-### Week 10: Web Development with Python 💻
+### Week 9: Web Development with Python 💻
 - Introduction to web development and its components
 - Understanding HTTP and REST APIs 
 - Introduction to Django framework and its features 
@@ -103,12 +92,12 @@ This is a comprehensive Python course that covers everything from the basics to 
 - Developing Chrome Extension 
 - Use PyQt to design User Interface and write Django code for backend functionality.
 
-### Week 11: Data Science with Python 📊
+### Week 10: Data Science with Python 📊
 - Introduction to data science 
 - Libraries for data manipulation - NumPy, pandas 
 - Data visualization using Matplotlib and Seaborn 
 - Introduction to machine learning 
 - Regression and classification using Scikit-learn 
 
-### Week 12: Final project 🏁
+### Week 11: Final project 🏁
 - Students will work on a final project of their choice that incorporates at least two concepts covered in the course. 
