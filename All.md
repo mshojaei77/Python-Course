@@ -1,4 +1,4 @@
-# Python Slayer Course 🐍🗡️
+# Python Course 🐍🗡️
 
 Welcome to the Python Slayer Course! 🎉
 
