@@ -26,8 +26,6 @@ This course is designed to introduce you to the fundamentals of programming usin
 - Iterating through lists and accessing list elements
 - Dictionaries: creating and manipulating dictionary elements
 - Tuples and Sets in Python
-- Working with larger data sets
-- Data slicing and indexing
 
 ### Week 5: Working with Modules 📦
 - Introduction to modules and their usage in Python
