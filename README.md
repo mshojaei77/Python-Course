@@ -34,13 +34,10 @@ This course is designed to introduce you to the fundamentals of programming usin
 - Exploring third-party modules available through package managers like pip
 - Understanding module namespaces and scoping
 
-### Week 6: File Handling and Regular expressions in Python
+### Week 6: File Handling in Python
 - Reading and writing files in Python
 - Handle file IO errors and exceptions
 - CSV file handling in Python
-- Introduction to regular expressions
-- Match, search, and findall functions
-- Using regular expressions to extract information
 
 ### Week 7: Final Project in Python
 - Using Python to build a project 
