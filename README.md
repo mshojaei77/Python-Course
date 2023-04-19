@@ -1,48 +1,45 @@
+# Course 1: Python Basics
 
- شرح دوره:
- این دوره برای آشنایی شما با اصول برنامه نویسی با استفاده از پایتون طراحی شده است.  با این دوره، نه تنها نحوه نوشتن کد پایتون را یاد خواهید گرفت، بلکه درکی از مفاهیم برنامه نویسی که قابل انتقال به زبان های دیگر هستند نیز به دست خواهید آورد.  این دوره برای مبتدیانی طراحی شده است که تجربه برنامه نویسی کمی دارند.
+## Course Description:
+This course is designed to introduce you to the fundamentals of programming using Python. With this course, you will not only learn how to write Python code but also gain an understanding of programming concepts that are transferrable to other languages. This course is designed for beginners with little to no programming experience.
 
- خلاصه دوره:
+## Course Outline:
 
- هفته اول: آشنایی با پایتون
- - مروری بر پایتون و برنامه نویسی
- - نصب پایتون و کار با IDLE
- - سینتکس پایه و انواع داده در پایتون
- - متغیرها و عبارات
+### Week 1: Introduction to Python
+- Overview of Python and programming
+- Installing Python and working with IDLE
+- Basic syntax and data types in Python
+- Variables and expressions
 
- هفته 2: ساختارهای کنترل
- - گزاره های شرطی: if، else، elif
- - عبارات حلقه ای: while، for
- - حلقه های تودرتو و عبارات کنترل حلقه: شکستن، ادامه دادن، عبور
+### Week 2: Control Structures
+- Conditional statements: if, else, elif
+- Looping statements: while, for
+- Nested loops and loop control statements: break, continue, pass
 
- هفته 3: توابع و ماژول ها
- - تعریف و فراخوانی توابع در پایتون
- - آرگومان های تابع و مقادیر بازگشتی
- - ماژول ها و وارد کردن توابع ماژول
+### Week 3: Functions and Modules
+- Defining and calling functions in Python
+- Function arguments and return values
+- Modules and importing module functions
 
- هفته چهارم: فهرست ها و لغت نامه ها
- - کار با لیست ها و عملیات لیست در پایتون
- - تکرار از طریق لیست ها و دسترسی به عناصر لیست
- - دیکشنری ها: ایجاد و دستکاری عناصر فرهنگ لغت
+### Week 4: Lists and Dictionaries
+- Working with lists and list operations in Python
+- Iterating through lists and accessing list elements
+- Dictionaries: creating and manipulating dictionary elements
 
- هفته پنجم: مدیریت فایل در پایتون
- - خواندن و نوشتن فایل ها در پایتون
- - خطاها و استثنائات IO فایل را مدیریت کنید
- - مدیریت فایل CSV در پایتون
 
- هفته ششم: برنامه نویسی شی گرا در پایتون
- - کلاس ها و اشیاء در پایتون
- - ایجاد روش ها و ویژگی ها
- - وراثت و چندشکلی
+### Week 5: Working with Modules
+- Introduction to modules and their usage in Python
+- Creating and importing custom modules
+- Working with built-in modules such as math, random, and datetime
+- Exploring third-party modules available through package managers like pip
+- Understanding module namespaces and scoping
 
- هفته هفتم: پروژه نهایی در پایتون
- - استفاده از پایتون برای ساخت پروژه
- - کار با داده های دنیای واقعی
- - طراحی و اجرای پروژه با استفاده از پایتون
+### Week 6: File Handling in Python
+- Reading and writing files in Python
+- Handle file IO errors and exceptions
+- CSV file handling in Python
 
- کتاب درسی پیشنهادی:
-Python Crash Course : 
-مقدمه ای عملی و مبتنی بر پروژه بر برنامه نویسی نوشته اریک متس،
-
- ارزیابی:
- تمرین های هفتگی و یک پروژه نهایی وجود خواهد داشت.  پروژه نهایی باید مهارت دانش آموز در برنامه نویسی پایتون و نحوه استفاده از پایتون برای حل مسائل دنیای واقعی را نشان دهد.
+### Week 7: Final Project in Python
+- Using Python to build a project 
+- Working with real-world data
+- Design and implementation of a project using Python
