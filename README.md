@@ -87,14 +87,14 @@
 - الگوریتم های جستجو - جستجوی خطی، جستجوی دودویی
 - الگوریتم های مرتب سازی - مرتب سازی حباب، مرتب سازی انتخاب، مرتب سازی درج
 - الگوریتم های گراف - جستجوی اول سطح، جستجوی اول عمق 
-## Week 11: GUI Development with Python
+## Week 10: GUI Development with Python
     - Introduction to GUI development and its benefits 
     - GUI development with PyQT5 and PyQt6
     - Working with images in GUI applications using Pillow 
     - Bundling your GUI application into an executable using Pyinstaller
     - Introduction to Phone App Development using Flet
     - Introduction to Phone App Development using Kivy and Buildozer. 
-### هفته 11: توسعه GUI با پایتون
+### هفته 10: توسعه GUI با پایتون
 - اشنایی با توسعه GUI و مزایای ان
 - توسعه GUI با PyQT5 و PyQt6
 - کار با تصاویر در برنامه های GUI با استفاده از Pillow
@@ -104,7 +104,7 @@
 
 
 
-## Week 12: HTML, CSS, and JavaScript for Web Developers
+## Week 11: HTML, CSS, and JavaScript for Web Developers
     - Introduction to HTML
     - Advanced HTML
     - Introduction to CSS
@@ -113,7 +113,7 @@
     - Programming fundamentals in JavaScript
     - Document Object Model (DOM) manipulation with JavaScript
     - jQuery
-### هفته 12: HTML، CSS، و جاوا اسکریپت برای توسعه دهندگان وب
+### هفته 11: HTML، CSS، و جاوا اسکریپت برای توسعه دهندگان وب
 - مقدمه ای بر HTML
 - HTML پیشرفته
 - مقدمه ای بر CSS
@@ -124,7 +124,7 @@
 - جی کوئری    
  
  
-## Week 10: Web Scraping with Python
+## Week 12: Web Scraping with Python
     - Introduction to web scraping and its applications
     - Introduction to HTML and CSS
     - Making HTTP requests in Python with requests and urllib 
@@ -138,7 +138,7 @@
     - Torrent automation using Python 
     - Introduction to OSINT (Open Source Intelligence) and its applications in social media scraping  
     - Deploying bots on cloud platforms like Heroku and AWS 
-### هفته 10: خراشیدن وب با پایتون
+### هفته 12: خراشیدن وب با پایتون
 - مقدمه ای بر خراش وب و کاربردهای ان
 - ایجاد درخواست های HTTP در پایتون با requests و urllib
 - کتابخانه های خراشیدن وب - BeautifulSoup و Scrapy
