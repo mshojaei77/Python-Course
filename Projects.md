@@ -23,7 +23,7 @@
 9. Data Backup Tool: Develop a Python program that automatically backs up data.
 10. Debugger: Build a custom debugger to debug Python code.
 
-Module 3: Module 3: Algorithms, GUI Development, and Web Scraping
+## Module 3: Module 3: Algorithms, GUI Development, and Web Scraping
 1. Desktop Weather App: Build a desktop weather app with a graphical interface.
 2. Photo Viewer: Create a photo viewer with advanced image manipulation features.
 3. Text Editor: Build a text editor with syntax highlighting and autocomplete features.
@@ -45,7 +45,7 @@ Module 3: Module 3: Algorithms, GUI Development, and Web Scraping
 19. Weather Data Scraper: Create a tool that extracts weather data from different sources.
 20. Webpage Analyzer: Build a program that analyzes the content and structure of web pages.
 
-Module 4: Web Development with Python
+## Module 4: Web Development with Python
 1. Blog Website: Build a blogging platform using Python's Flask web framework.
 2. E-commerce Website: Develop an online store using Django.
 3. URL Shortener Web App: Create a web-based URL shortening tool.
