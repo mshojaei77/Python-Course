@@ -86,35 +86,7 @@
 - جداول هش
 - الگوریتم های جستجو - جستجوی خطی، جستجوی دودویی
 - الگوریتم های مرتب سازی - مرتب سازی حباب، مرتب سازی انتخاب، مرتب سازی درج
-- الگوریتم های گراف - جستجوی اول سطح، جستجوی اول عمق
-## Week 10: Web Scraping with Python
-    - Introduction to web scraping and its applications
-    - Introduction to HTML and CSS
-    - Making HTTP requests in Python with requests and urllib 
-    - Libraries for web scraping - BeautifulSoup and Scrapy 
-    - Extracting data from HTML and XML using BeautifulSoup and lxml 
-    - Using APIs to scrape data from websites
-    - Understanding selectors like XPath and CSS selector for scraping specific elements 
-    - Handling dynamic websites with Selenium 
-    - Scraping RSS and ATOM feeds 
-    - Scraping Social Media Platforms and Building bots such as Telegram, Twitter, Instagram 
-    - Torrent automation using Python 
-    - Introduction to OSINT (Open Source Intelligence) and its applications in social media scraping  
-    - Deploying bots on cloud platforms like Heroku and AWS 
-### هفته 10: خراشیدن وب با پایتون
-- مقدمه ای بر خراش وب و کاربردهای ان
-- مقدمه ای بر HTML و CSS
-- ایجاد درخواست های HTTP در پایتون با requests و urllib
-- کتابخانه های خراشیدن وب - BeautifulSoup و Scrapy
-- استخراج داده ها از HTML و XML با استفاده از BeautifulSoup و lxml
-- استفاده از API ها برای جمع اوری داده ها از وب سایت ها
-- درک انتخابگرهایی مانند XPath و انتخابگر CSS برای خراشیدن عناصر خاص
-- کار با وب سایت های پویا با سلنیوم
-- خراش فیدهای RSS و ATOM
-- خراشیدن رسانه های اجتماعی به همراه ساخت ربات ( تلگرام، توییتر، اینستاگرام)
-- اتوماسیون تورنت با استفاده از پایتون
-- مقدمه ای بر OSINT (اطلاعات منبع باز) و برنامه های کاربردی ان در خراش رسانه های اجتماعی
-- استقرار رباتها در سیستم عامل های ابری مانند Heroku و AWS
+- الگوریتم های گراف - جستجوی اول سطح، جستجوی اول عمق 
 ## Week 11: GUI Development with Python
     - Introduction to GUI development and its benefits 
     - GUI development with PyQT5 and PyQt6
@@ -123,7 +95,7 @@
     - Introduction to Phone App Development using Flet
     - Introduction to Phone App Development using Kivy and Buildozer. 
 ### هفته 11: توسعه GUI با پایتون
--اشنایی با توسعه GUI و مزایای ان
+- اشنایی با توسعه GUI و مزایای ان
 - توسعه GUI با PyQT5 و PyQt6
 - کار با تصاویر در برنامه های GUI با استفاده از Pillow
 - بسته بندی برنامه GUI خود را به یک اجرایی با استفاده از Pyinstaller
@@ -150,14 +122,43 @@
 - اصول برنامه نویسی در جاوا اسکریپت
 - دستکاری مدل شیء سند (DOM) با جاوا اسکریپت
 - جی کوئری    
- ### Week 13: Bootstrap
+ 
+ 
+## Week 10: Web Scraping with Python
+    - Introduction to web scraping and its applications
+    - Introduction to HTML and CSS
+    - Making HTTP requests in Python with requests and urllib 
+    - Libraries for web scraping - BeautifulSoup and Scrapy 
+    - Extracting data from HTML and XML using BeautifulSoup and lxml 
+    - Using APIs to scrape data from websites
+    - Understanding selectors like XPath and CSS selector for scraping specific elements 
+    - Handling dynamic websites with Selenium 
+    - Scraping RSS and ATOM feeds 
+    - Scraping Social Media Platforms and Building bots such as Telegram, Twitter, Instagram 
+    - Torrent automation using Python 
+    - Introduction to OSINT (Open Source Intelligence) and its applications in social media scraping  
+    - Deploying bots on cloud platforms like Heroku and AWS 
+### هفته 10: خراشیدن وب با پایتون
+- مقدمه ای بر خراش وب و کاربردهای ان
+- ایجاد درخواست های HTTP در پایتون با requests و urllib
+- کتابخانه های خراشیدن وب - BeautifulSoup و Scrapy
+- استخراج داده ها از HTML و XML با استفاده از BeautifulSoup و lxml
+- استفاده از API ها برای جمع اوری داده ها از وب سایت ها
+- درک انتخابگرهایی مانند XPath و انتخابگر CSS برای خراشیدن عناصر خاص
+- کار با وب سایت های پویا با سلنیوم
+- خراش فیدهای RSS و ATOM
+- خراشیدن رسانه های اجتماعی به همراه ساخت ربات ( تلگرام، توییتر، اینستاگرام)
+- اتوماسیون تورنت با استفاده از پایتون
+- مقدمه ای بر OSINT (اطلاعات منبع باز) و برنامه های کاربردی ان در خراش رسانه های اجتماعی
+- استقرار رباتها در سیستم عامل های ابری مانند Heroku و AWS
+ ## Week 13: Bootstrap
     - Introduction to Bootstrap
     - Grid system in Bootstrap
     - Navigation bar in Bootstrap
     - Forms in Bootstrap
     - Modals in Bootstrap
     - Carousel in Bootstrap
-  ## هفته سیزدهم: بوت استرپ
+### هفته سیزدهم: بوت استرپ
 - آشنایی با بوت استرپ
 - سیستم گرید در بوت استرپ
 - نوار ناوبری در بوت استرپ
