@@ -1,7 +1,7 @@
 # Python Course 🐍
 
 <details>
-<summary> Month 1: Basics </summary>
+<summary> Month 1: Basic Python </summary>
     
 ## Week 1: Basics of Programming in Python
     - Overview of Python and its features
