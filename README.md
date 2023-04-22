@@ -5,7 +5,7 @@
 - Setting up Python environment
 - Running Python code using VScode or Jupyter Notebook
 - Variables, data types, and operators
-هفته 1: مبانی برنامه نویسی در پایتون
+### هفته 1: مبانی برنامه نویسی در پایتون
 - بررسی اجمالی از پایتون و ویژگی های ان
 - راه اندازی محیط پایتون
 - اجرای کد پایتون با استفاده از VScode یا Jupyter Notebook
@@ -13,13 +13,13 @@
 ## Week 2: Control statements and Functions
 - Control statements: if-else, for loop, while loop, break, continue and Pass
 - Functions and argument
-هفته 2: عبارات کنترلی و توابع
+### هفته 2: عبارات کنترلی و توابع
 - عبارات کنترلی: if-else، for loop، while loop، break، continue و Pass
 - توابع و آرگومان ها
 ## Week 3: Data Structures in Python
 - Lists, tuples, sets, and dictionaries 
 - Common operations on these data structures 
-هفته سوم: ساختارهای داده در پایتون
+### هفته 3: ساختارهای داده در پایتون
 - لیست ها، تاپل ها، مجموعه ها و دیکشنری ها
 - ماپراتورهای مشترک در این ساختار داده ها
 ## Week 4: Modules and Libraries in Python
@@ -30,7 +30,7 @@
 - Creating a requirements.txt file to manage dependencies 
 - Popular modules such as subprocess, shutil, collections, pathlib, tempfile, glob
 - Virtual Environments with virtualenv and venv 
-هفته چهارم: ماژول ها و کتابخانه ها در پایتون
+### هفته 4: ماژول ها و کتابخانه ها در پایتون
 - مقدمه ای بر ماژول ها و کتابخانه ها در پایتون
 - نحو پایه برای وارد کردن ماژول ها و استفاده از توابع انها
 - کتابخانه های استاندارد در پایتون مانند os، sys، math و random و استفاده از انها
@@ -44,21 +44,21 @@
 - Handling exceptions while working with files like FileNotFoundError, PermissionError etc.
 - Working with different types of file paths 
 - Reading and writing text files, CSV files, Excel files, JSON files, XML files, PDF files, docx files and zipfile
-هفته 5: مدیریت فایل در پایتون
+### هفته 5: مدیریت فایل در پایتون
 - خواندن و نوشتن فایل ها در پایتون با استفاده از روش های مختلف مانند read()، readline() و readlines()
 - رسیدگی به استثنائات در هنگام کار با فایل هایی مانند FileNotFoundError، PermissionError و غیره
 - کار با انواع مختلف مسیر فایل
 - خواندن و نوشتن فایل های متنی، فایل های CSV، فایل های اکسل، فایل های JSON، فایل های XML، فایل های PDF، فایل های docx و zipfile
 ## Week 6: Regular Expressions
 - Introduction to regular expressions and their usage for pattern matching and text processing
-هفته 6: عبارات منظم
+### هفته 6: عبارات منظم
 - مقدمه ای بر عبارات منظم و استفاده از انها برای تطبیق الگو و پردازش متن
 ## Week 7: Debugging and Testing in Python
 - Types of Errors and Exceptions
 - Debugging Techniques
 - Unit Testing with Pytest
 - Error Handling using Try/Except Blocks
-هفته هفتم: اشکال زدایی و تست در پایتون
+### هفته 7: اشکال زدایی و تست در پایتون
 - انواع خطاها و استثنائات
 - تکنیک های اشکال زدایی
 - تست واحد با Pytest و Unitest
@@ -68,7 +68,7 @@
 - Classes, objects, and methods 
 - Inheritance, polymorphism, and encapsulation 
 - Abstract classes and interfaces 
-هفته هشتم: برنامه نویسی Object-Oriented در پایتون
+###هفته 8: برنامه نویسی Object-Oriented در پایتون
 - مقدمه ای بر مفاهیم OOP
 - کلاس ها، اشیاء و روش ها
 - وراثت، پلی مورفیسم و کپسوله سازی
@@ -80,7 +80,7 @@
 - Searching algorithms - Linear Search, Binary Search 
 - Sorting algorithms - Bubble Sort, Selection Sort, Insertion Sort 
 - Graph algorithms - Breadth First Search, Depth First Search 
-هفته نهم: ساختارهای پیشرفته داده ها و الگوریتم ها در پایتون
+### هفته 9: ساختارهای پیشرفته داده ها و الگوریتم ها در پایتون
 - ارایه و لیست های لینک شده
 - صف، پشته و هیپ
 - جداول هش
@@ -101,7 +101,7 @@
 - Torrent automation using Python 
 - Introduction to OSINT (Open Source Intelligence) and its applications in social media scraping  
 - Deploying bots on cloud platforms like Heroku and AWS 
-هفته 10: خراشیدن وب با پایتون
+### هفته 10: خراشیدن وب با پایتون
 - مقدمه ای بر خراش وب و کاربردهای ان
 - مقدمه ای بر HTML و CSS
 - ایجاد درخواست های HTTP در پایتون با requests و urllib
@@ -122,7 +122,7 @@
 - Bundling your GUI application into an executable using Pyinstaller
 - Introduction to Phone App Development using Flet
 - Introduction to Phone App Development using Kivy and Buildozer. 
-هفته یازدهم: توسعه GUI با پایتون
+### هفته 11: توسعه GUI با پایتون
 -اشنایی با توسعه GUI و مزایای ان
 - توسعه GUI با PyQT5 و PyQt6
 - کار با تصاویر در برنامه های GUI با استفاده از Pillow
@@ -144,12 +144,14 @@
 - Django Forms
 - Django User Authentication
 - Introduction to a Real Project with Django
+- 
 - Setting up the Environment
 - Building the Authentication App
 - Building the Blog App
 - Building the Forum App
 - Building the Marketplace App
 - Deploying the Application
+- 
 - Introduction to Django Rest Framework
 - Serializers and Views
 - API Testing and Debugging
@@ -164,7 +166,45 @@
 - Celery for Asynchronous Tasks
 - Docker for Containerization
 - AWS for Deployment
+### هفته 12: توسعه وب با پایتون
+- راه اندازی Git Bash
+- ایجاد یک حساب Github
+- مقدمه ای بر HTML: برچسب های HTML، فرم های HTML
+- مقدمه ای بر CSS: انتخاب کننده های CSS، مدل جعبه CSS، پوسته های CSS
+- مقدمه ای بر بوت استرپ: قطعات و سیستم شبکه، سفارشی سازی بوت استرپ
+- اشنایی با جنگو
+- مدل ها و مهاجرت های جنگو
+- مدیریت جنگو
+- تم ها و قالب های جنگو
+- پرونده های استاتیک در جنگو
+- فرم های جنگو
+- احراز هویت کاربر Django
+- 
+- یک پروژه واقعی با جنگو
+- راه اندازی محیط توسعه
+- ساخت برنامه احراز هویت
+- ساخت برنامه وبلاگ
+- ساخت برنامه انجمن
+ساخت برنامه بازار
+-استقرار برنامه
 
+
+- چارچوب  Django Rest Framework
+- سریال سازها و نماها
+- تست API و اشکال زدایی
+- احراز هویت و مجوزها
+- 
+- اشنایی با ایجاد وب سایت تجارت الکترونیک با جنگو
+- ساخت برنامه محصولات
+- ساخت برنامه سبد خرید
+- ساخت برنامه پرداخت
+- ساخت برنامه سفارشات
+- استقرار برنامه
+
+- استفاده از Celery برای وظایف ناهمزمان
+- داکر Docker برای کانتینرسازی
+
+- استفاده از AWS برای استقرار
 ## Week 13: Data Science with Python
 - Introduction to NumPy: NumPy Arrays, NumPy Operations, NumPy Attributes and Methods
 - Introduction to Pandas: Series and DataFrames, Indexing and Selection, Conditional Selection, Operations with DataFrames, Missing Data, Groupby Operations, Merging, Joining, and Concatenating DataFrames
