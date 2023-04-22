@@ -21,7 +21,7 @@
     - Common operations on these data structures 
 ### هفته 3: ساختارهای داده در پایتون
 - لیست ها، تاپل ها، مجموعه ها و دیکشنری ها
-- ماپراتورهای مشترک در این ساختار داده ها
+- اپراتورهای مشترک در این ساختار داده ها
 ## Week 4: Modules and Libraries in Python
     - Introduction to modules and libraries in Python 
     - Basic syntax for importing modules and using their functions 
