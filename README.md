@@ -176,14 +176,14 @@
     - Deploying a Django application
 ### هفته چهاردهم: مقدمه ای بر توسعه وب با جنگو
 - آشنایی با جنگو
-     - راه اندازی جنگو بر روی کامپیوتر شما
-     - ایجاد اولین برنامه جنگو
-     - مدل ها در جنگو
-     - نمایش ها در جنگو
-     - قالب ها در جنگو
-     - فرم ها در جنگو
-     - احراز هویت کاربر در جنگو
-     - استقرار یک برنامه جنگو
+- راه اندازی جنگو بر روی کامپیوتر شما
+- ایجاد اولین برنامه جنگو
+- مدل ها در جنگو
+- نمایش ها در جنگو
+- قالب ها در جنگو
+- فرم ها در جنگو
+- احراز هویت کاربر در جنگو
+- استقرار یک برنامه جنگو
 ## Week 15: Django Advanced Concepts
     - Class-based views in Django
     - Django REST framework
@@ -192,12 +192,12 @@
     - Custom user model in Django
     - Heroku deployment
 ### هفته 15: مفاهیم پیشرفته جنگو
-     - نمایش های مبتنی بر کلاس در جنگو
-     - چارچوب Django REST
-     - مدیریت فایل های استاتیک و فایل های رسانه ای در جنگو
-     - سیگنال های جنگو و میان افزار
-     - مدل کاربر سفارشی در جنگو
-     - استقرار هروکو
+- نمایش های مبتنی بر کلاس در جنگو
+- چارچوب Django REST
+- مدیریت فایل های استاتیک و فایل های رسانه ای در جنگو
+- سیگنال های جنگو و میان افزار
+- مدل کاربر سفارشی در جنگو
+- استقرار روی هروکو
 ## Week 16: Building Real-World Applications
     - E-commerce website using Django
     - Social network website using Django
@@ -205,57 +205,52 @@
     - Portfolio website using Django
 ### هفته شانزدهم: ساخت برنامه های کاربردی در دنیای واقعی
 - وب سایت تجارت الکترونیک با استفاده از جنگو
-     - وب سایت شبکه اجتماعی با استفاده از جنگو
-     - برنامه وبلاگ با استفاده از جنگو
-     - وب سایت نمونه کارها با استفاده از جنگو
+- وب سایت شبکه اجتماعی با استفاده از جنگو
+- برنامه وبلاگ با استفاده از جنگو
+- وب سایت نمونه کارها با استفاده از جنگو
 ## Week 17: Introduction to Data Science and Python:
     - Overview of Data Science and its Applications
-    - Introduction to Python Programming Language
-    - Basic Data Structures in Python
-    - Control Statements in Python
-    - Functions in Python
 ### هفته هفدهم: مقدمه ای بر علم داده و پایتون:
 - مروری بر علم داده و کاربردهای آن
-     - مقدمه ای بر زبان برنامه نویسی پایتون
-     - ساختارهای داده پایه در پایتون
-     - دستورات کنترل در پایتون
-     - توابع در پایتون
+
 ## Week 18: Numpy and Pandas for Basic Data Manipulation
     - Numpy for Mathematical Operations in Python, including array creation, indexing, slicing, broadcasting, and element-wise operations.
     - Pandas for Data Manipulation and Cleaning, including data frame creation, data manipulation, grouping, merging, and handling missing data.
 ### هفته 18: Numpy و Pandas برای دستکاری داده های اولیه
-     - Numpy برای عملیات ریاضی در پایتون، از جمله ایجاد آرایه، نمایه سازی، برش، پخش و عملیات عناصر.
-     - پانداها برای دستکاری و تمیز کردن داده ها، از جمله ایجاد قاب داده، دستکاری داده ها، گروه بندی، ادغام و مدیریت داده های از دست رفته.
+- کتابخانه  Numpy برای عملیات ریاضی در پایتون، از جمله ایجاد آرایه، نمایه سازی، برش، پخش و عملیات عناصر.
+- کتابخانهPandas برای دستکاری و تمیز کردن داده ها، از جمله ایجاد قاب داده، دستکاری داده ها، گروه بندی، ادغام و مدیریت داده های از دست رفته
+
 ## Week 19: Matplotlib and Seaborn for Data Visualization
     - Matplotlib for Data Visualization, including line plots, scatter plots, bar charts, histogram, and box plots.
     - Seaborn for Advanced Data Visualization, including heatmap, pairplot, jointplots, and factorplots.
 ### هفته 19: Matplotlib و Seaborn برای تجسم داده ها
-   - Matplotlib برای تجسم داده ها، از جمله نمودارهای خطی، نمودارهای پراکنده، نمودارهای میله ای، هیستوگرام، و نمودارهای جعبه.
-     - Seaborn برای تجسم داده های پیشرفته، از جمله نقشه حرارتی، نمودار زوجی، نمودار مشترک، و نمودار عامل.
+   - کتابخانه Matplotlib برای تجسم داده ها، از جمله نمودارهای خطی، نمودارهای پراکنده، نمودارهای میله ای، هیستوگرام، و نمودارهای جعبه.
+     -کتابخانه  Seaborn برای تجسم داده های پیشرفته، از جمله نقشه حرارتی، نمودار زوجی، نمودار مشترک، و نمودار عامل.
+
 ## Week 20: Scikit-Learn for Machine Learning
     - Scikit-Learn for Machine Learning, including overview of machine learning algorithms, model selection techniques, cross-validation, and performance evaluation.
 ### هفته 20: Scikit-Learn برای یادگیری ماشین
-  - Scikit-Learn for Machine Learning، از جمله مروری بر الگوریتم های یادگیری ماشین، تکنیک های انتخاب مدل، اعتبارسنجی متقابل و ارزیابی عملکرد.
+  -کتابخانه Scikit-Learn برای یادگیری ماشین: از جمله مروری بر الگوریتم های یادگیری ماشین، تکنیک های انتخاب مدل، اعتبارسنجی متقابل و ارزیابی عملکرد.
 ## Week 21: Linear Regression and Logistic Regression
     - Linear Regression, including simple linear regression, multiple linear regression, and polynomial regression.
     - Logistic Regression, including binary logistic regression and multinomial logistic regression.
 ### هفته 21: رگرسیون خطی و رگرسیون لجستیک
 - رگرسیون خطی، شامل رگرسیون خطی ساده، رگرسیون خطی چندگانه و رگرسیون چند جمله ای.
-     - رگرسیون لجستیک، از جمله رگرسیون لجستیک باینری و رگرسیون لجستیک چند جمله ای.
+- رگرسیون لجستیک، از جمله رگرسیون لجستیک باینری و رگرسیون لجستیک چند جمله ای.
 ## Week 22: Decision Trees and Random Forests, K-Nearest Neighbors, and Support Vector Machines
     - Decision Trees and Random Forests, including decision tree classifiers, ensemble methods, and bagging and boosting techniques.
     - K-Nearest Neighbors, including k-NN classifier and k-NN regression.
     - Support Vector Machines, including linear svm and kernel svm.
 ### هفته 22: درختان تصمیم گیری و جنگل های تصادفی، K-نزدیک ترین همسایه ها، و ماشین های بردار پشتیبانی
 - درخت‌های تصمیم‌گیری و جنگل‌های تصادفی، از جمله طبقه‌بندی‌کننده‌های درخت تصمیم، روش‌های مجموعه، و تکنیک‌های بسته‌بندی و تقویت.
-     - K-Nearest Neighbors، از جمله طبقه بندی کننده k-NN و رگرسیون k-NN.
-     - پشتیبانی از ماشین های برداری، از جمله svm خطی و svm هسته.
+- الگوریتم های K-Nearest Neighbors، از جمله طبقه بندی کننده k-NN و رگرسیون k-NN.
+- پشتیبانی از ماشین های برداری، از جمله svm خطی و svm هسته.
 ## Week 23: Principal Component Analysis and Time Series Analysis
     - Principal Component Analysis, including PCA algorithm, eigenvalues and eigenvectors, and reducing dimensions of the dataset.
     - Time Series Analysis, including time series components, autocorrelation functions, stationary time series, and ARIMA models.
 ### هفته 23: تجزیه و تحلیل مؤلفه های اصلی و تجزیه و تحلیل سری های زمانی
 - تجزیه و تحلیل اجزای اصلی، از جمله الگوریتم PCA، مقادیر ویژه و بردارهای ویژه، و کاهش ابعاد مجموعه داده.
-     - تجزیه و تحلیل سری های زمانی، شامل اجزای سری زمانی، توابع همبستگی خودکار، سری های زمانی ثابت و مدل های ARIMA.
+- تجزیه و تحلیل سری های زمانی، شامل اجزای سری زمانی، توابع همبستگی خودکار، سری های زمانی ثابت و مدل های ARIMA.
 ## Week 24: Deep Learning with Tensorflow and Keras
     - Deep Learning with Tensorflow and Keras, including deep neural networks, convolutional neural networks, recurrent neural networks, and transfer learning.
 ### هفته 24: یادگیری عمیق با تنسورفلو و کراس
@@ -265,4 +260,4 @@
     - Tableau for Data Visualization, including creating dashboards, charts, and graphs, and data blending techniques.
 ### هفته 25: پردازش زبان طبیعی و جدول برای تجسم داده ها
 - پردازش زبان طبیعی، شامل پیش پردازش متن، تحلیل احساسات و طبقه بندی متن با استفاده از الگوریتم های مختلف.
-     - جدول برای تجسم داده ها، از جمله ایجاد داشبورد، نمودارها، و نمودارها، و تکنیک های ترکیب داده ها.
+- جدول برای تجسم داده ها، از جمله ایجاد داشبورد، نمودارها، و نمودارها، و تکنیک های ترکیب داده ها.
