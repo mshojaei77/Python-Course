@@ -130,62 +130,56 @@
 - مقدمه ای بر توسعه برنامه تلفن با استفاده از Flet
 - مقدمه ای بر توسعه برنامه تلفن با استفاده از Kivy و Buildozer.
 
-## Week 12: Web Development with Python
-- Setting up Git Bash
-- Creating a Github account
-- Introduction to HTML: HTML Tags ,HTML Forms
-- Introduction to CSS: CSS Selectors, CSS Box Model, CSS Layouts
-- Introduction to Bootstrap: Components and Grid System, Customizing Bootstrap
-- Introduction to Django: Models and Migrations, Admin, Views and Templates, Static Files, Forms, User Authentication
-- a Real Project with Django: Setting up the Environment, Building the Authentication App, Building the Blog App, Building the Marketplace App, Deploying the Application
-- Introduction to Django Rest Framework: Serializers and Views, API Testing and Debugging, Authentication and Permissions
-- Introduction to Building an E-commerce Website with Django: Building the Products App, Building the Cart App, Building the Checkout App, Building the Orders App, Deploying the Application
-- Celery for Asynchronous Tasks
-- Docker for Containerization
-- AWS for Deployment
-### هفته دوازدهم: توسعه وب با پایتون
-- راه اندازی Git Bash
-- ایجاد یک حساب کاربری Github
-- مقدمه ای بر HTML: برچسب های HTML، فرم های HTML
-- مقدمه ای بر CSS: انتخابگرهای CSS، مدل جعبه CSS، پوسته های CSS
-- مقدمه ای بر بوت استرپ: اجزا و سیستم شبکه، سفارشی کردن بوت استرپ
-- مقدمه ای بر جنگو: مدل ها و مهاجرت ها، مدیریت، نمایش ها و قالب ها، فایل های استاتیک، فرم ها، احراز هویت کاربر
-- یک پروژه واقعی با جنگو: راه‌اندازی محیط، ساخت برنامه احراز هویت، ساخت برنامه بلاگ، ساخت اپلیکیشن بازار، استقرار برنامه
-- مقدمه ای بر چارچوب بازی Django Rest: سریال سازها و نمایش ها، تست API و اشکال زدایی، احراز هویت و مجوزها
-- مقدمه ای بر ساخت وب سایت تجارت الکترونیک با جنگو: ساخت اپلیکیشن محصولات، ساخت اپلیکیشن سبد خرید، ساخت اپلیکیشن پرداخت، ساخت اپلیکیشن سفارشات، استقرار اپلیکیشن
-- استفاده از Celery برای کارهای ناهمزمان
-- داکر برای کانتینرسازی
-- استفاده از AWS برای استقرار
+## Week 11: Introduction to Web Development with Django
+    - Introduction to Django
+    - Setting up Django on your computer
+    - Creating your first Django application
+    - Models in Django
+    - Views in Django
+    - Templates in Django
+    - Forms in Django
+    - User authentication in Django
+    - Deploying a Django application
 
+2. HTML, CSS, and JavaScript for Web Developers
+    - Introduction to HTML
+    - Advanced HTML
+    - Introduction to CSS
+    - Advanced CSS
+    - Introduction to JavaScript
+    - Programming fundamentals in JavaScript
+    - Document Object Model (DOM) manipulation with JavaScript
+    - jQuery
 
-## Week 13: Data Science with Python
-- Introduction to NumPy: NumPy Arrays, NumPy Operations, NumPy Attributes and Methods
-- Introduction to Pandas: Series and DataFrames, Indexing and Selection, Conditional Selection, Operations with DataFrames, Missing Data, Groupby Operations, Merging, Joining, and Concatenating DataFrames
-- Introduction to Matplotlib: Line Plots, Scatter Plots, Bar Plots, Histograms, Box Plots, Heatmaps
-- Introduction to Seaborn: Distributions, Categorical Data, Matrix Plots, Regression Plots
-- Introduction to Plotly and Cufflinks: Line Plots, Scatter Plots, Bar Plots, Box Plots, Heatmaps, Surface Maps, Animations
-- Data Capstone Project: Data Collection and Preparation, Data Exploration and Visualization, Data Analysis and Model Building
-- Introduction to Linear Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Regularization: Ridge and Lasso
-- Introduction to Logistic Regression: Binary Logistic Regression, Multinomial Logistic Regression
-- Introduction to K-Nearest Neighbors: Choosing K Value, Distance Metrics, Pros and Cons of KNN Algorithm, KNN with Scikit-Learn
-- Introduction to Decision Trees and Random Forests, Decision Tree Basics, Overfitting and Pruning, Random Forests
-- Introduction to Support Vector Machines: Linear SVM Classification, Nonlinear SVM Classification, SVM with Scikit-Learn
-- Introduction to K-Means Clustering: Choosing K Value, Pros and Cons of K-Means Algorithm, K-Means with Scikit-Learn
-- Introduction to NLP: Text Cleaning and Preprocessing, Bag-of-Words Model, Term Frequency-Inverse Document Frequency (TF-IDF), Sentiment Analysis, Text Classification
-- Introduction to Big Data and Spark: PySpark Installation, Basic RDD Operations, Pair RDD Operations, SparkSQL
+3. Bootstrap
+    - Introduction to Bootstrap
+    - Grid system in Bootstrap
+    - Navigation bar in Bootstrap
+    - Forms in Bootstrap
+    - Modals in Bootstrap
+    - Carousel in Bootstrap
 
-### هفته 13: علم داده با پایتون
-- مقدمه ای بر NumPy: ارایه های NumPy، عملیات NumPy، ویژگی ها و روش های NumPy
-- مقدمه ای برPandas: سری ها و فریم های داده، نمایه سازی و انتخاب، انتخاب شرطی، عملیات با فریم های داده، داده های گمشده، عملیات گروهی، ادغام، پیوستن و ترکیب فریم های داده
-- مقدمه ای بر Matplotlib: طرح های خط، طرح های پراکنده، طرح های نوار، هیستوگرام ها، طرح های جعبه، نقشه های حرارتی
-- مقدمه ای بر Seaborn: توزیع ها، داده های مطلق، پلات های ماتریسی، نمودارهای رگرسیونی
-- مقدمه ای بر Plotly و Cufflinks: طرح های خط، طرح های پراکنده، طرح های نوار، طرح های جعبه، نقشه های حرارتی، نقشه های سطحی، انیمیشن ها
-- پروژه Data Capstone: جمع اوری و اماده سازی داده ها، اکتشاف و تجسم داده ها، تجزیه و تحلیل داده ها و مدل سازی
-- مقدمه ای بر رگرسیون خطی: رگرسیون خطی ساده، رگرسیون خطی چندگانه، رگرسیون چند جمله ای، منظم سازی: ریج و لاسو
-- مقدمه ای بر رگرسیون لجستیک: رگرسیون لجستیک دودویی، رگرسیون لجستیک چند جمله ای
-- مقدمه ای بر K-نزدیکترین همسایگان: انتخاب مقدار K، معیارهای فاصله، مزایا و معایب الگوریتم KNN، KNN با Scikit-Learn
-- مقدمه ای بر درختان تصمیم گیری و جنگل های تصادفی، مبانی درخت تصمیم گیری، برازش و هرس، جنگل های تصادفی
-- مقدمه ای بر ماشین بردار پشتیبان: طبقه بندی خطی SVM، طبقه بندی غیرخطی SVM، SVM با Scikit-Learn
-- مقدمه ای بر خوشه بندی K-Means: انتخاب K Value، مزایا و معایب الگوریتم K-Means، K-Means با Scikit-Learn
-- مقدمه ای بر NLP: تمیز کردن متن و پیش پردازش، مدل کیسه کلمات، فرکانس معکوس مدت فرکانس (TF-IDF)، تجزیه و تحلیل احساسات، طبقه بندی متن
-- مقدمه ای بر داده های بزرگ و Spark: نصب PySpark، عملیات پایه RDD، عملیات RDD جفت، SparkSQL
+4. Python Fundamentals
+    - Introduction to Python
+    - Data types, variables, and operators in Python
+    - Control statements in Python
+    - Functions in Python
+    - Object-Oriented Programming (OOP) in Python
+    - Input/output operations in Python
+    - File handling in Python
+
+5. Django Advanced Concepts
+    - Class-based views in Django
+    - Django REST framework
+    - Handling static files and media files in Django
+    - Django signals and middleware
+    - Custom user model in Django
+    - Heroku deployment
+
+6. Building Real-World Applications
+    - E-commerce website using Django
+    - Social network website using Django
+    - Blog application using Django
+    - Portfolio website using Django
+
+Each topic includes multiple lessons and quizzes to help you practice what you have learned. By completing this course, you will have a solid foundation in web development using Django, HTML, CSS, and JavaScript, as well as in-depth knowledge of Python programming. You will also have hands-on experience building real-world web applications including an e-commerce website, social network website, blog application, and portfolio website.
