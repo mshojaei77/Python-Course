@@ -144,14 +144,12 @@
 - Django Forms
 - Django User Authentication
 - Introduction to a Real Project with Django
-- 
 - Setting up the Environment
 - Building the Authentication App
 - Building the Blog App
 - Building the Forum App
 - Building the Marketplace App
 - Deploying the Application
-- 
 - Introduction to Django Rest Framework
 - Serializers and Views
 - API Testing and Debugging
@@ -162,7 +160,6 @@
 - Building the Checkout App
 - Building the Orders App
 - Deploying the Application
-
 - Celery for Asynchronous Tasks
 - Docker for Containerization
 - AWS for Deployment
@@ -179,7 +176,6 @@
 - پرونده های استاتیک در جنگو
 - فرم های جنگو
 - احراز هویت کاربر Django
-- 
 - یک پروژه واقعی با جنگو
 - راه اندازی محیط توسعه
 - ساخت برنامه احراز هویت
@@ -187,23 +183,18 @@
 - ساخت برنامه انجمن
 ساخت برنامه بازار
 -استقرار برنامه
-
-
 - چارچوب  Django Rest Framework
 - سریال سازها و نماها
 - تست API و اشکال زدایی
 - احراز هویت و مجوزها
-- 
 - اشنایی با ایجاد وب سایت تجارت الکترونیک با جنگو
 - ساخت برنامه محصولات
 - ساخت برنامه سبد خرید
 - ساخت برنامه پرداخت
 - ساخت برنامه سفارشات
 - استقرار برنامه
-
 - استفاده از Celery برای وظایف ناهمزمان
 - داکر Docker برای کانتینرسازی
-
 - استفاده از AWS برای استقرار
 ## Week 13: Data Science with Python
 - Introduction to NumPy: NumPy Arrays, NumPy Operations, NumPy Attributes and Methods
@@ -212,16 +203,13 @@
 - Introduction to Seaborn: Distributions, Categorical Data, Matrix Plots, Regression Plots
 - Introduction to Plotly and Cufflinks: Line Plots, Scatter Plots, Bar Plots, Box Plots, Heatmaps, Surface Maps, Animations
 - Data Capstone Project: Data Collection and Preparation, Data Exploration and Visualization, Data Analysis and Model Building
-
 - Introduction to Linear Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Regularization: Ridge and Lasso
 - Introduction to Logistic Regression: Binary Logistic Regression, Multinomial Logistic Regression
 - Introduction to K-Nearest Neighbors: Choosing K Value, Distance Metrics, Pros and Cons of KNN Algorithm, KNN with Scikit-Learn
 - Introduction to Decision Trees and Random Forests, Decision Tree Basics, Overfitting and Pruning, Random Forests
 - Introduction to Support Vector Machines: Linear SVM Classification, Nonlinear SVM Classification, SVM with Scikit-Learn
 - Introduction to K-Means Clustering: Choosing K Value, Pros and Cons of K-Means Algorithm, K-Means with Scikit-Learn
-
 - Introduction to NLP: Text Cleaning and Preprocessing, Bag-of-Words Model, Term Frequency-Inverse Document Frequency (TF-IDF), Sentiment Analysis, Text Classification
-
 - Introduction to Big Data and Spark: PySpark Installation, Basic RDD Operations, Pair RDD Operations, SparkSQL
 
 ### هفته سیزدهم: علم داده با پایتون
@@ -231,14 +219,11 @@
 - مقدمه ای بر Seaborn: توزیع ها، داده های مطلق، پلات های ماتریسی، نمودارهای رگرسیونی
 - مقدمه ای بر Plotly و Cufflinks: طرح های خط، طرح های پراکنده، طرح های نوار، طرح های جعبه، نقشه های حرارتی، نقشه های سطحی، انیمیشن ها
 - پروژه Data Capstone: جمع اوری و اماده سازی داده ها، اکتشاف و تجسم داده ها، تجزیه و تحلیل داده ها و مدل سازی
-- 
-
 - مقدمه ای بر رگرسیون خطی: رگرسیون خطی ساده، رگرسیون خطی چندگانه، رگرسیون چند جمله ای، منظم سازی: ریج و لاسو
 - مقدمه ای بر رگرسیون لجستیک: رگرسیون لجستیک دودویی، رگرسیون لجستیک چند جمله ای
 - مقدمه ای بر K-نزدیکترین همسایگان: انتخاب مقدار K، معیارهای فاصله، مزایا و معایب الگوریتم KNN، KNN با Scikit-Learn
 - مقدمه ای بر درختان تصمیم گیری و جنگل های تصادفی، مبانی درخت تصمیم گیری، برازش و هرس، جنگل های تصادفی
 - مقدمه ای بر ماشین بردار پشتیبان: طبقه بندی خطی SVM، طبقه بندی غیرخطی SVM، SVM با Scikit-Learn
 - مقدمه ای بر خوشه بندی K-Means: انتخاب K Value، مزایا و معایب الگوریتم K-Means، K-Means با Scikit-Learn
-
 - مقدمه ای بر NLP: تمیز کردن متن و پیش پردازش، مدل کیسه کلمات، فرکانس معکوس مدت فرکانس (TF-IDF)، تجزیه و تحلیل احساسات، طبقه بندی متن
 - مقدمه ای بر داده های بزرگ و Spark: نصب PySpark، عملیات پایه RDD، عملیات RDD جفت، SparkSQL
