@@ -1,5 +1,6 @@
 # Python Course 🐍
 
+# Month 1
 ## Week 1: Basics of Programming in Python
     - Overview of Python and its features
     - Setting up Python environment
@@ -39,6 +40,7 @@
 - ماژول های محبوب مانند subprocess, shutil, collections, pathlib, tempfile, glob
 - محیط های مجازی با virtualenv و venv
 
+# Month 2
 ## Week 5: File Handling in Python
     - Reading and writing files in Python using different methods like read(), readline() and readlines()
     - Handling exceptions while working with files like FileNotFoundError, PermissionError etc.
@@ -73,6 +75,7 @@
 - کلاس ها، اشیاء و روش ها
 - وراثت، پلی مورفیسم و کپسوله سازی
 - کلاس های انتزاعی و رابط ها
+# Month 3
 ### Week 9: Advanced Data Structures and Algorithms in Python
     - Array and Linked Lists
     - Queues, Stacks and Heaps
@@ -151,6 +154,7 @@
 - اتوماسیون تورنت با استفاده از پایتون
 - مقدمه ای بر OSINT (اطلاعات منبع باز) و برنامه های کاربردی ان در خراش رسانه های اجتماعی
 - استقرار رباتها در سیستم عامل های ابری مانند Heroku و AWS
+ # Month 4
  ## Week 13: Bootstrap
     - Introduction to Bootstrap
     - Grid system in Bootstrap
@@ -209,6 +213,7 @@
 - وب سایت شبکه اجتماعی با استفاده از جنگو
 - برنامه وبلاگ با استفاده از جنگو
 - وب سایت نمونه کارها با استفاده از جنگو
+# Month 5
 ## Week 17: Introduction to Data Science and Python:
     - Overview of Data Science and its Applications
 ### هفته هفدهم: مقدمه ای بر علم داده و پایتون:
@@ -237,7 +242,8 @@
     - Logistic Regression, including binary logistic regression and multinomial logistic regression.
 ### هفته 21: رگرسیون خطی و رگرسیون لجستیک
 - رگرسیون خطی، شامل رگرسیون خطی ساده، رگرسیون خطی چندگانه و رگرسیون چند جمله ای.
-- رگرسیون لجستیک، از جمله رگرسیون لجستیک باینری و رگرسیون لجستیک چند جمله ای.
+- رگرسیون لجستیک، از جمله رگرسیون لجستیک باینری و رگرسیون لجستیک چند جمله ای
+# Month 6
 ## Week 22: Decision Trees and Random Forests, K-Nearest Neighbors, and Support Vector Machines
     - Decision Trees and Random Forests, including decision tree classifiers, ensemble methods, and bagging and boosting techniques.
     - K-Nearest Neighbors, including k-NN classifier and k-NN regression.
