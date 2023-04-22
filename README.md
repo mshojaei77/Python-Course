@@ -1,7 +1,7 @@
 # Python Course 🐍
 
 <details>
-<summary> Month 1: Basic Python </summary>
+<summary> Module 1: Basic Python </summary>
     
 ## Week 1: Basics of Programming in Python
     - Overview of Python and its features
@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary> Month 2: Intermediate Python </summary>
+<summary> Module 2: Intermediate Python </summary>
     
 ## Week 5: File Handling in Python
     - Reading and writing files in Python using different methods like read(), readline() and readlines()
@@ -84,7 +84,7 @@
 </details>
 
 <details>
-<summary> Month 3:  Algorithms, GUI Development, and Web Scraping </summary>
+<summary> Module 3:  Algorithms, GUI Development, and Web Scraping </summary>
     
 ### Week 9: Advanced Data Structures and Algorithms in Python
     - Array and Linked Lists
@@ -167,7 +167,7 @@
 </details>
 
 <details>
-<summary> Month 4: Web Development with Python </summary>
+<summary> Module 4: Web Development with Python </summary>
     
  ## Week 13: Bootstrap
     - Introduction to Bootstrap
@@ -230,7 +230,7 @@
 </details>
 
 <details>
-<summary> Month 5 : Data Science with Python </summary>
+<summary> Module 5 : Data Science with Python </summary>
     
 ## Week 17: Introduction to Data Science and Python:
     - Overview of Data Science and its Applications
@@ -264,7 +264,7 @@
 </details>
 
 <details>
-<summary> Month 6: Advanced Techniques in Machine Learning </summary>
+<summary> Module 6: Advanced Techniques in Machine Learning </summary>
     
 ## Week 22: Decision Trees and Random Forests, K-Nearest Neighbors, and Support Vector Machines
     - Decision Trees and Random Forests, including decision tree classifiers, ensemble methods, and bagging and boosting techniques.
