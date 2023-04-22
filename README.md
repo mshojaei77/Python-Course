@@ -141,8 +141,8 @@
     - Programming fundamentals in JavaScript
     - Document Object Model (DOM) manipulation with JavaScript
     - jQuery
-### هفته دوازدهم: HTML، CSS، و جاوا اسکریپت برای توسعه دهندگان وب
-     - مقدمه ای بر HTML
+### هفته 12: HTML، CSS، و جاوا اسکریپت برای توسعه دهندگان وب
+- مقدمه ای بر HTML
      - HTML پیشرفته
      - مقدمه ای بر CSS
      - CSS پیشرفته
@@ -158,7 +158,7 @@
     - Modals in Bootstrap
     - Carousel in Bootstrap
   ## هفته سیزدهم: بوت استرپ
-     - آشنایی با بوت استرپ
+   - آشنایی با بوت استرپ
      - سیستم گرید در بوت استرپ
      - نوار ناوبری در بوت استرپ
      - فرم ها در بوت استرپ
@@ -175,7 +175,7 @@
     - User authentication in Django
     - Deploying a Django application
 ### هفته چهاردهم: مقدمه ای بر توسعه وب با جنگو
-     - آشنایی با جنگو
+- آشنایی با جنگو
      - راه اندازی جنگو بر روی کامپیوتر شما
      - ایجاد اولین برنامه جنگو
      - مدل ها در جنگو
@@ -204,7 +204,7 @@
     - Blog application using Django
     - Portfolio website using Django
 ### هفته شانزدهم: ساخت برنامه های کاربردی در دنیای واقعی
-     - وب سایت تجارت الکترونیک با استفاده از جنگو
+- وب سایت تجارت الکترونیک با استفاده از جنگو
      - وب سایت شبکه اجتماعی با استفاده از جنگو
      - برنامه وبلاگ با استفاده از جنگو
      - وب سایت نمونه کارها با استفاده از جنگو
@@ -215,7 +215,7 @@
     - Control Statements in Python
     - Functions in Python
 ### هفته هفدهم: مقدمه ای بر علم داده و پایتون:
-     - مروری بر علم داده و کاربردهای آن
+- مروری بر علم داده و کاربردهای آن
      - مقدمه ای بر زبان برنامه نویسی پایتون
      - ساختارهای داده پایه در پایتون
      - دستورات کنترل در پایتون
@@ -230,39 +230,39 @@
     - Matplotlib for Data Visualization, including line plots, scatter plots, bar charts, histogram, and box plots.
     - Seaborn for Advanced Data Visualization, including heatmap, pairplot, jointplots, and factorplots.
 ### هفته 19: Matplotlib و Seaborn برای تجسم داده ها
-     - Matplotlib برای تجسم داده ها، از جمله نمودارهای خطی، نمودارهای پراکنده، نمودارهای میله ای، هیستوگرام، و نمودارهای جعبه.
+   - Matplotlib برای تجسم داده ها، از جمله نمودارهای خطی، نمودارهای پراکنده، نمودارهای میله ای، هیستوگرام، و نمودارهای جعبه.
      - Seaborn برای تجسم داده های پیشرفته، از جمله نقشه حرارتی، نمودار زوجی، نمودار مشترک، و نمودار عامل.
 ## Week 20: Scikit-Learn for Machine Learning
     - Scikit-Learn for Machine Learning, including overview of machine learning algorithms, model selection techniques, cross-validation, and performance evaluation.
 ### هفته 20: Scikit-Learn برای یادگیری ماشین
-     - Scikit-Learn for Machine Learning، از جمله مروری بر الگوریتم های یادگیری ماشین، تکنیک های انتخاب مدل، اعتبارسنجی متقابل و ارزیابی عملکرد.
+  - Scikit-Learn for Machine Learning، از جمله مروری بر الگوریتم های یادگیری ماشین، تکنیک های انتخاب مدل، اعتبارسنجی متقابل و ارزیابی عملکرد.
 ## Week 21: Linear Regression and Logistic Regression
     - Linear Regression, including simple linear regression, multiple linear regression, and polynomial regression.
     - Logistic Regression, including binary logistic regression and multinomial logistic regression.
 ### هفته 21: رگرسیون خطی و رگرسیون لجستیک
-     - رگرسیون خطی، شامل رگرسیون خطی ساده، رگرسیون خطی چندگانه و رگرسیون چند جمله ای.
+- رگرسیون خطی، شامل رگرسیون خطی ساده، رگرسیون خطی چندگانه و رگرسیون چند جمله ای.
      - رگرسیون لجستیک، از جمله رگرسیون لجستیک باینری و رگرسیون لجستیک چند جمله ای.
 ## Week 22: Decision Trees and Random Forests, K-Nearest Neighbors, and Support Vector Machines
     - Decision Trees and Random Forests, including decision tree classifiers, ensemble methods, and bagging and boosting techniques.
     - K-Nearest Neighbors, including k-NN classifier and k-NN regression.
     - Support Vector Machines, including linear svm and kernel svm.
 ### هفته 22: درختان تصمیم گیری و جنگل های تصادفی، K-نزدیک ترین همسایه ها، و ماشین های بردار پشتیبانی
-     - درخت‌های تصمیم‌گیری و جنگل‌های تصادفی، از جمله طبقه‌بندی‌کننده‌های درخت تصمیم، روش‌های مجموعه، و تکنیک‌های بسته‌بندی و تقویت.
+- درخت‌های تصمیم‌گیری و جنگل‌های تصادفی، از جمله طبقه‌بندی‌کننده‌های درخت تصمیم، روش‌های مجموعه، و تکنیک‌های بسته‌بندی و تقویت.
      - K-Nearest Neighbors، از جمله طبقه بندی کننده k-NN و رگرسیون k-NN.
      - پشتیبانی از ماشین های برداری، از جمله svm خطی و svm هسته.
 ## Week 23: Principal Component Analysis and Time Series Analysis
     - Principal Component Analysis, including PCA algorithm, eigenvalues and eigenvectors, and reducing dimensions of the dataset.
     - Time Series Analysis, including time series components, autocorrelation functions, stationary time series, and ARIMA models.
 ### هفته 23: تجزیه و تحلیل مؤلفه های اصلی و تجزیه و تحلیل سری های زمانی
-     - تجزیه و تحلیل اجزای اصلی، از جمله الگوریتم PCA، مقادیر ویژه و بردارهای ویژه، و کاهش ابعاد مجموعه داده.
+- تجزیه و تحلیل اجزای اصلی، از جمله الگوریتم PCA، مقادیر ویژه و بردارهای ویژه، و کاهش ابعاد مجموعه داده.
      - تجزیه و تحلیل سری های زمانی، شامل اجزای سری زمانی، توابع همبستگی خودکار، سری های زمانی ثابت و مدل های ARIMA.
 ## Week 24: Deep Learning with Tensorflow and Keras
     - Deep Learning with Tensorflow and Keras, including deep neural networks, convolutional neural networks, recurrent neural networks, and transfer learning.
 ### هفته 24: یادگیری عمیق با تنسورفلو و کراس
-     - یادگیری عمیق با تنسورفلو و کراس، از جمله شبکه های عصبی عمیق، شبکه های عصبی کانولوشنال، شبکه های عصبی مکرر و یادگیری انتقالی.
+- یادگیری عمیق با تنسورفلو و کراس، از جمله شبکه های عصبی عمیق، شبکه های عصبی کانولوشنال، شبکه های عصبی مکرر و یادگیری انتقالی.
 ## Week 25: Natural Language Processing and Tableau for Data Visualization
     - Natural Language Processing, including text preprocessing, sentiment analysis, and text classification using various algorithms.
     - Tableau for Data Visualization, including creating dashboards, charts, and graphs, and data blending techniques.
 ### هفته 25: پردازش زبان طبیعی و جدول برای تجسم داده ها
-     - پردازش زبان طبیعی، شامل پیش پردازش متن، تحلیل احساسات و طبقه بندی متن با استفاده از الگوریتم های مختلف.
+- پردازش زبان طبیعی، شامل پیش پردازش متن، تحلیل احساسات و طبقه بندی متن با استفاده از الگوریتم های مختلف.
      - جدول برای تجسم داده ها، از جمله ایجاد داشبورد، نمودارها، و نمودارها، و تکنیک های ترکیب داده ها.
