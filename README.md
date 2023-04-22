@@ -136,66 +136,28 @@
 - Introduction to HTML: HTML Tags ,HTML Forms
 - Introduction to CSS: CSS Selectors, CSS Box Model, CSS Layouts
 - Introduction to Bootstrap: Components and Grid System, Customizing Bootstrap
-- Introduction to Django
-- Django Models and Migrations
-- Django Admin
-- Django Views and Templates
-- Static Files in Django
-- Django Forms
-- Django User Authentication
-- Introduction to a Real Project with Django
-- Setting up the Environment
-- Building the Authentication App
-- Building the Blog App
-- Building the Forum App
-- Building the Marketplace App
-- Deploying the Application
-- Introduction to Django Rest Framework
-- Serializers and Views
-- API Testing and Debugging
-- Authentication and Permissions
-- Introduction to Building an E-commerce Website with Django
-- Building the Products App
-- Building the Cart App
-- Building the Checkout App
-- Building the Orders App
-- Deploying the Application
+- Introduction to Django: Models and Migrations, Admin, Views and Templates, Static Files, Forms, User Authentication
+- a Real Project with Django: Setting up the Environment, Building the Authentication App, Building the Blog App, Building the Marketplace App, Deploying the Application
+- Introduction to Django Rest Framework: Serializers and Views, API Testing and Debugging, Authentication and Permissions
+- Introduction to Building an E-commerce Website with Django: Building the Products App, Building the Cart App, Building the Checkout App, Building the Orders App, Deploying the Application
 - Celery for Asynchronous Tasks
 - Docker for Containerization
 - AWS for Deployment
-### هفته 12: توسعه وب با پایتون
+### هفته دوازدهم: توسعه وب با پایتون
 - راه اندازی Git Bash
-- ایجاد یک حساب Github
+- ایجاد یک حساب کاربری Github
 - مقدمه ای بر HTML: برچسب های HTML، فرم های HTML
-- مقدمه ای بر CSS: انتخاب کننده های CSS، مدل جعبه CSS، پوسته های CSS
-- مقدمه ای بر بوت استرپ: قطعات و سیستم شبکه، سفارشی سازی بوت استرپ
-- اشنایی با جنگو
-- مدل ها و مهاجرت های جنگو
-- مدیریت جنگو
-- تم ها و قالب های جنگو
-- پرونده های استاتیک در جنگو
-- فرم های جنگو
-- احراز هویت کاربر Django
-- یک پروژه واقعی با جنگو
-- راه اندازی محیط توسعه
-- ساخت برنامه احراز هویت
-- ساخت برنامه وبلاگ
-- ساخت برنامه انجمن
-ساخت برنامه بازار
--استقرار برنامه
-- چارچوب  Django Rest Framework
-- سریال سازها و نماها
-- تست API و اشکال زدایی
-- احراز هویت و مجوزها
-- اشنایی با ایجاد وب سایت تجارت الکترونیک با جنگو
-- ساخت برنامه محصولات
-- ساخت برنامه سبد خرید
-- ساخت برنامه پرداخت
-- ساخت برنامه سفارشات
-- استقرار برنامه
-- استفاده از Celery برای وظایف ناهمزمان
-- داکر Docker برای کانتینرسازی
+- مقدمه ای بر CSS: انتخابگرهای CSS، مدل جعبه CSS، پوسته های CSS
+- مقدمه ای بر بوت استرپ: اجزا و سیستم شبکه، سفارشی کردن بوت استرپ
+- مقدمه ای بر جنگو: مدل ها و مهاجرت ها، مدیریت، نمایش ها و قالب ها، فایل های استاتیک، فرم ها، احراز هویت کاربر
+- یک پروژه واقعی با جنگو: راه‌اندازی محیط، ساخت برنامه احراز هویت، ساخت برنامه بلاگ، ساخت اپلیکیشن بازار، استقرار برنامه
+- مقدمه ای بر چارچوب بازی Django Rest: سریال سازها و نمایش ها، تست API و اشکال زدایی، احراز هویت و مجوزها
+- مقدمه ای بر ساخت وب سایت تجارت الکترونیک با جنگو: ساخت اپلیکیشن محصولات، ساخت اپلیکیشن سبد خرید، ساخت اپلیکیشن پرداخت، ساخت اپلیکیشن سفارشات، استقرار اپلیکیشن
+- استفاده از Celery برای کارهای ناهمزمان
+- داکر برای کانتینرسازی
 - استفاده از AWS برای استقرار
+
+
 ## Week 13: Data Science with Python
 - Introduction to NumPy: NumPy Arrays, NumPy Operations, NumPy Attributes and Methods
 - Introduction to Pandas: Series and DataFrames, Indexing and Selection, Conditional Selection, Operations with DataFrames, Missing Data, Groupby Operations, Merging, Joining, and Concatenating DataFrames
