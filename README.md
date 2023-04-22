@@ -44,6 +44,9 @@
 
 </details>
 
+<details>
+<summary> Month 1 </summary>
+    
 ## Week 5: File Handling in Python
     - Reading and writing files in Python using different methods like read(), readline() and readlines()
     - Handling exceptions while working with files like FileNotFoundError, PermissionError etc.
@@ -78,7 +81,11 @@
 - کلاس ها، اشیاء و روش ها
 - وراثت، پلی مورفیسم و کپسوله سازی
 - کلاس های انتزاعی و رابط ها
-# Month 3
+</details>
+
+<details>
+<summary> Month 1 </summary>
+    
 ### Week 9: Advanced Data Structures and Algorithms in Python
     - Array and Linked Lists
     - Queues, Stacks and Heaps
@@ -156,8 +163,12 @@
 - خراشیدن رسانه های اجتماعی به همراه ساخت ربات ( تلگرام، توییتر، اینستاگرام)
 - اتوماسیون تورنت با استفاده از پایتون
 - مقدمه ای بر OSINT (اطلاعات منبع باز) و برنامه های کاربردی ان در خراش رسانه های اجتماعی
-- استقرار رباتها در سیستم عامل های ابری مانند Heroku و AWS
- # Month 4
+- استقرار رباتها در سیستم عامل های ابری مانند Heroku و
+</details>
+
+<details>
+<summary> Month 1 </summary>
+    
  ## Week 13: Bootstrap
     - Introduction to Bootstrap
     - Grid system in Bootstrap
@@ -216,7 +227,11 @@
 - وب سایت شبکه اجتماعی با استفاده از جنگو
 - برنامه وبلاگ با استفاده از جنگو
 - وب سایت نمونه کارها با استفاده از جنگو
-# Month 5
+</details>
+
+<details>
+<summary> Month 1 </summary>
+    
 ## Week 17: Introduction to Data Science and Python:
     - Overview of Data Science and its Applications
 ### هفته هفدهم: مقدمه ای بر علم داده و پایتون:
@@ -246,7 +261,11 @@
 ### هفته 21: رگرسیون خطی و رگرسیون لجستیک
 - رگرسیون خطی، شامل رگرسیون خطی ساده، رگرسیون خطی چندگانه و رگرسیون چند جمله ای.
 - رگرسیون لجستیک، از جمله رگرسیون لجستیک باینری و رگرسیون لجستیک چند جمله ای
-# Month 6
+</details>
+
+<details>
+<summary> Month 1 </summary>
+    
 ## Week 22: Decision Trees and Random Forests, K-Nearest Neighbors, and Support Vector Machines
     - Decision Trees and Random Forests, including decision tree classifiers, ensemble methods, and bagging and boosting techniques.
     - K-Nearest Neighbors, including k-NN classifier and k-NN regression.
@@ -271,3 +290,4 @@
 ### هفته 25: پردازش زبان طبیعی و جدول برای تجسم داده ها
 - پردازش زبان طبیعی، شامل پیش پردازش متن، تحلیل احساسات و طبقه بندی متن با استفاده از الگوریتم های مختلف.
 - جدول برای تجسم داده ها، از جمله ایجاد داشبورد، نمودارها، و نمودارها، و تکنیک های ترکیب داده ها.
+</details>
