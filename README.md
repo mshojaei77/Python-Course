@@ -212,7 +212,7 @@
 - Introduction to NLP: Text Cleaning and Preprocessing, Bag-of-Words Model, Term Frequency-Inverse Document Frequency (TF-IDF), Sentiment Analysis, Text Classification
 - Introduction to Big Data and Spark: PySpark Installation, Basic RDD Operations, Pair RDD Operations, SparkSQL
 
-### هفته سیزدهم: علم داده با پایتون
+### هفته 13: علم داده با پایتون
 - مقدمه ای بر NumPy: ارایه های NumPy، عملیات NumPy، ویژگی ها و روش های NumPy
 - مقدمه ای برPandas: سری ها و فریم های داده، نمایه سازی و انتخاب، انتخاب شرطی، عملیات با فریم های داده، داده های گمشده، عملیات گروهی، ادغام، پیوستن و ترکیب فریم های داده
 - مقدمه ای بر Matplotlib: طرح های خط، طرح های پراکنده، طرح های نوار، هیستوگرام ها، طرح های جعبه، نقشه های حرارتی
