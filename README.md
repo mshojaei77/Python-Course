@@ -2,6 +2,7 @@
 
 <details>
 <summary> Month 1 </summary>
+    
 ## Week 1: Basics of Programming in Python
     - Overview of Python and its features
     - Setting up Python environment
