@@ -143,13 +143,13 @@
     - jQuery
 ### هفته 12: HTML، CSS، و جاوا اسکریپت برای توسعه دهندگان وب
 - مقدمه ای بر HTML
-     - HTML پیشرفته
-     - مقدمه ای بر CSS
-     - CSS پیشرفته
-     - مقدمه ای بر جاوا اسکریپت
-     - اصول برنامه نویسی در جاوا اسکریپت
-     - دستکاری مدل شیء سند (DOM) با جاوا اسکریپت
-     - جی کوئری    
+- HTML پیشرفته
+- مقدمه ای بر CSS
+- CSS پیشرفته
+- مقدمه ای بر جاوا اسکریپت
+- اصول برنامه نویسی در جاوا اسکریپت
+- دستکاری مدل شیء سند (DOM) با جاوا اسکریپت
+- جی کوئری    
  ### Week 13: Bootstrap
     - Introduction to Bootstrap
     - Grid system in Bootstrap
@@ -158,12 +158,12 @@
     - Modals in Bootstrap
     - Carousel in Bootstrap
   ## هفته سیزدهم: بوت استرپ
-   - آشنایی با بوت استرپ
-     - سیستم گرید در بوت استرپ
-     - نوار ناوبری در بوت استرپ
-     - فرم ها در بوت استرپ
-     - مدال ها در بوت استرپ
-     - چرخ فلک در بوت استرپ  
+- آشنایی با بوت استرپ
+- سیستم گرید در بوت استرپ
+- نوار ناوبری در بوت استرپ
+- فرم ها در بوت استرپ
+- مدال ها در بوت استرپ
+- چرخ فلک در بوت استرپ  
 ## Week 14: Introduction to Web Development with Django
     - Introduction to Django
     - Setting up Django on your computer
@@ -224,13 +224,13 @@
     - Matplotlib for Data Visualization, including line plots, scatter plots, bar charts, histogram, and box plots.
     - Seaborn for Advanced Data Visualization, including heatmap, pairplot, jointplots, and factorplots.
 ### هفته 19: Matplotlib و Seaborn برای تجسم داده ها
-   - کتابخانه Matplotlib برای تجسم داده ها، از جمله نمودارهای خطی، نمودارهای پراکنده، نمودارهای میله ای، هیستوگرام، و نمودارهای جعبه.
-     -کتابخانه  Seaborn برای تجسم داده های پیشرفته، از جمله نقشه حرارتی، نمودار زوجی، نمودار مشترک، و نمودار عامل.
+- کتابخانه Matplotlib برای تجسم داده ها، از جمله نمودارهای خطی، نمودارهای پراکنده، نمودارهای میله ای، هیستوگرام، و نمودارهای جعبه.
+- کتابخانه  Seaborn برای تجسم داده های پیشرفته، از جمله نقشه حرارتی، نمودار زوجی، نمودار مشترک، و نمودار عامل.
 
 ## Week 20: Scikit-Learn for Machine Learning
     - Scikit-Learn for Machine Learning, including overview of machine learning algorithms, model selection techniques, cross-validation, and performance evaluation.
 ### هفته 20: Scikit-Learn برای یادگیری ماشین
-  -کتابخانه Scikit-Learn برای یادگیری ماشین: از جمله مروری بر الگوریتم های یادگیری ماشین، تکنیک های انتخاب مدل، اعتبارسنجی متقابل و ارزیابی عملکرد.
+- کتابخانه Scikit-Learn برای یادگیری ماشین: از جمله مروری بر الگوریتم های یادگیری ماشین، تکنیک های انتخاب مدل، اعتبارسنجی متقابل و ارزیابی عملکرد.
 ## Week 21: Linear Regression and Logistic Regression
     - Linear Regression, including simple linear regression, multiple linear regression, and polynomial regression.
     - Logistic Regression, including binary logistic regression and multinomial logistic regression.
