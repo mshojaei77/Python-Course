@@ -1,6 +1,7 @@
 # Python Course 🐍
 
-# Month 1
+<details>
+<summary> Month 1 </summary>
 ## Week 1: Basics of Programming in Python
     - Overview of Python and its features
     - Setting up Python environment
@@ -40,7 +41,8 @@
 - ماژول های محبوب مانند subprocess, shutil, collections, pathlib, tempfile, glob
 - محیط های مجازی با virtualenv و venv
 
-# Month 2
+</details>
+
 ## Week 5: File Handling in Python
     - Reading and writing files in Python using different methods like read(), readline() and readlines()
     - Handling exceptions while working with files like FileNotFoundError, PermissionError etc.
