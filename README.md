@@ -3,37 +3,21 @@
 <details>
 <summary> Module 1: Basic Python </summary>
     
-## Week 1: Basics of Programming in Python
-    - Overview of Python and its features
-    - Setting up Python environment
-    - Running Python code using VScode or Jupyter Notebook
-    - Variables, data types, and operators
-### هفته 1: مبانی برنامه نویسی در پایتون
+## هفته 1: مبانی برنامه نویسی در پایتون
 - بررسی اجمالی از پایتون و ویژگی های ان
 - راه اندازی محیط پایتون
 - اجرای کد پایتون با استفاده از VScode یا Jupyter Notebook
 - متغیرها، انواع داده ها و اپراتورها
-## Week 2: Control statements and Functions
-    - Control statements: if-else, for loop, while loop, break, continue and Pass
-    - Functions and argument
-### هفته 2: عبارات کنترلی و توابع
+    
+## هفته 2: عبارات کنترلی و توابع
 - عبارات کنترلی: if-else، for loop، while loop، break، continue و Pass
 - توابع و آرگومان ها
-## Week 3: Data Structures in Python
-    - Lists, tuples, sets, and dictionaries 
-    - Common operations on these data structures 
-### هفته 3: ساختارهای داده در پایتون
+
+## هفته 3: ساختارهای داده در پایتون
 - لیست ها، تاپل ها، مجموعه ها و دیکشنری ها
 - اپراتورهای مشترک در این ساختار داده ها
-## Week 4: Modules and Libraries in Python
-    - Introduction to modules and libraries in Python 
-    - Basic syntax for importing modules and using their functions 
-    - Standard libraries in Python like os, sys, math, and random, and their usage 
-    - Third-party libraries and how to install them using PyPI and pip 
-    - Creating a requirements.txt file to manage dependencies 
-    - Popular modules such as subprocess, shutil, collections, pathlib, tempfile, glob
-    - Virtual Environments with virtualenv and venv 
-### هفته 4: ماژول ها و کتابخانه ها در پایتون
+
+## هفته 4: ماژول ها و کتابخانه ها در پایتون
 - مقدمه ای بر ماژول ها و کتابخانه ها در پایتون
 - نحو پایه برای وارد کردن ماژول ها و استفاده از توابع انها
 - کتابخانه های استاندارد در پایتون مانند os، sys، math و random و استفاده از انها
