@@ -70,7 +70,7 @@
 - معرفی و استفاده از کتابخانه های پرکاربرد
 - کتابخانه های
 
-random, math, cowsay ,time, datetime, os , sys , request 
+calendar, random, math, cowsay ,time, datetime, os , sys , request 
 
 ## جلسه 7 و 8: ایجاد یک ماشین حساب ساده با استفاده از کتابخانه Felt
 
